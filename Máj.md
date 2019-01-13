@@ -21,7 +21,8 @@
 ## Rozbor
 - vydáno 1836
 - nepřijato soudobou společností:
-  - nemá výchovný prvek, staví jedince nad společnost, kritika společnosti
+  - nemá výchovný prvek
+  - staví jedince nad společnost, kterou kritizuje
 
 ### Obecné informace
 - literární druh: **poezie**
@@ -32,7 +33,7 @@
 - časoprostor: **Máchův kraj** (okolí hradu Bezděz),
 - téma: **zobrazení májové přírody a lidského neštěstí**
 - motivy: láska; žárlivost; spravedlnost; nadpřirozenost
-- inspirace:
+- inspirace: skutečný příběh českých vesnic, Máchův rodný kraj
 
 ### Jazyk
 - psáno **spisovným jazykem** - archaický, knižní
@@ -47,45 +48,56 @@
 -	**Poutník** – ztotožnění s autorem; objevuje se na konci díla
 
 ### Děj
-- první zpěv
+- první zpěv - **Jarmilina smrt**
   - obrazy májové přírody + motivy lásky
-  - Jarmila čeká na milého, ale dostane zprávu, že je ve vězení, protože zavraždil otce - spáchá sebevraždu skokem do jezera
-    - „Jarmilo! Jarmilo! Jarmilo!!!“
-- druhý zpěv - Vilémovy vzpomínky
-  - vyhnán otcem z domova - stal se vůdcem loupežníků „strašný lesa pán“
+  - Jarmila čeká na milého, ale dostane zprávu, že je ve vězení, protože zavraždil otce
+    - spáchá sebevraždu skokem do jezera... „Jarmilo! Jarmilo! Jarmilo!!!“
+  - druhý zpěv - **Vilémovy vzpomínky**
+  - vyhnán otcem z domova, stává se vůdcem loupežníků („strašný lesa pán“)
   - zamiloval se do dívky a zavraždil jejího svůdce, ve kterém nepoznal vlastního otce
   - otazníky viny, prázdnoty a nicoty
-- první intermezzo - sbor duchů očekává svého mrtvého
-- třetí zpěv -vrchol básně
+- první intermezzo - **sbor duchů očekává svého mrtvého**
+- třetí zpěv - **vrchol básně, Vilémova poprava**
   - krása přírody X lidský osud
   - vyznění lásky k rodné zemi
   - vzpomínky na Máchovo dětství
   - končí veršem „Viléme! Viléme! Viléme!!!“
-- druhé intermezzo - žalozpěv loupežníků nad ztrátou vůdce
-- čtvrtý zpěv
+- druhé intermezzo - **žalozpěv loupežníků nad ztrátou vůdce**
+- čtvrtý zpěv - **básníkův návrat**
   - básník se ztotožňuje s Vilémem i poutníkem
   - po 7 letech na místě Vilémovy popravy
   - úvaha nad tragikou osudu
   - zakončeno „Hynku! Viléme!! Jarmilo!!!“
 
 ### Ukázka
-_Obnažil vězeň krk, obnažil ňádra bílé,
-poklekl k zemi, kat odstoupí, strašné chvíle -
-pak blyskne meč, kat rychlý stoupne krok,
-v kolo tne meč, zločinci blyskne v týle,
-upadla hlava - skok i - ještě jeden skok
-i tělo ostatní ku zemi teď se skloní.
-Ach v zemi krásnou, zemi milovanou,
-v kolébku svou i hrob svůj, matku svou,
-v vlasť jedinou i v dědictví mu danou,
-v šírou tu zemi, zemi jedinou,
-v matku svou, v matku svou, krev syna teče po ní._
+_Obnažil vězeň krk, obnažil ňádra bílé,_
+
+_poklekl k zemi, kat odstoupí, strašné chvíle -_
+
+_pak blyskne meč, kat rychlý stoupne krok,_
+
+_v kolo tne meč, zločinci blyskne v týle,_
+
+_upadla hlava - skok i - ještě jeden skok_
+
+_i tělo ostatní ku zemi teď se skloní._
+
+_Ach v zemi krásnou, zemi milovanou,_
+
+_v kolébku svou i hrob svůj, matku svou,_
+
+_v vlasť jedinou i v dědictví mu danou,_
+
+_v šírou tu zemi, zemi jedinou,_
+
+_v matku svou, v matku svou, krev syna teče po ní._
+
 
 ### Inspirace
+-	Máj = **symbol lásky**
 -	výrazný vliv na následující generaci básníků
   - almanach Máj – májovci
   - Jan Neruda, Vítězslav Hálek, Karolína Světlá, Jakub Arbes, Adolf Heyduk, Václav Šolc, (Karel Sabina, Božena Němcová)
--	dnes je Máj symbol lásky
 -	Josef Kajetán Tyl – Rozervanec, v němž kritizuje Máchu píšícího o svých citech
 -	Josef Hora – Máchovské variace
 
@@ -126,7 +138,7 @@ v matku svou, v matku svou, krev syna teče po ní._
 - Walter Scott (první historický román Waverly)
 
 ### Rusko
-- Alexander Sergejevič Puškin (veršovaný Evžen Oněgin)
+- Alexander Sergejevič Puškin (Evžen Oněgin)
 - Michail Jurjevič Lermontov (psychologický román Hrdina naší doby)
 
 ### Čechy

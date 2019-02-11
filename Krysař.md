@@ -4,7 +4,8 @@
 
 ### Život
 - nejprve člen **anarchistických buřičů**, poté spíše **nacionalistický** autor
-- ovlivněn **Aloisem Jiráskem** (byl to jeho učitel dějepisu na gymnáziu), nedokončil studium práv
+- ovlivněn **Aloisem Jiráskem** (byl to jeho učitel dějepisu na gymnáziu)
+- nedokončil studium práv
 - redigoval časopisy **Lumír** a **Samostatnost**
 - působil **v politice** (nacionalismus)
   - za 1. sv. války se podílel na **protirakouském odboji** (persekuován)
@@ -29,13 +30,12 @@
 
 ### Obecné informace
 - literární druh: **próza**
-- literární žánr: **společenský román**
+- literární žánr: **společenská novela**  
 - kompozice: **chronologická, členěno do kapitol**
-- časoprostor: Německé **město Hammeln** a **vrch Koppel**
+- časoprostor: Německé **město Hammeln** a jeho okolí
 - téma: **základní lidské hodnoty, kritika povrchnosti**
 - námět: příběh krysaře, který přišel město očistit od krys
 - motivy: **povrchnost**, nelidskost, **milostné motivy**, tajemno, **moc**  
-- hlavní myšlenka:
 - inspirace: **staroněmecká legenda**
 
 ### Jazyk
@@ -66,35 +66,34 @@ Krysař přichází do města Hameln, které je zamořené krysami. Krysy vyžen
 
 Později se Krysař pohádá s radními, kteří mu nechtějí vyplatit slíbenou odměnu a po cestě od Agnes potká jejího milence. Rozčarovaný z těchto událostí utíká Krysař z města. Láska k Agnes ho ale donutí vrátit se. Agnes mezitím zjistí, že čeká dítě s Kristianem a odejde za město do propasti, která má podle pověsti vést do Sedmihradska, země zaslíbené, ale nikdo se odtamtud nevrátil.
 
-o Krysař se vrací, od šílené matky Agnes se dozví, že odešla a rozhodne se město vystavit zkáze. Zapíská ze všech sil na píšťalu, přestože pořádně neví, co se stane. Obyvatelé ho následují, zavede je do propasti. Jediný, kdo ujde zkáze je Sepp Jörgen a malé mimino, které najde ve městě.
+Krysař se vrací, od šílené matky Agnes se dozví, že odešla a rozhodne se město vystavit zkáze. Zapíská ze všech sil na píšťalu, přestože pořádně neví, co se stane. Obyvatelé ho následují, zavede je do propasti. Jediný, kdo ujde zkáze je Sepp Jörgen a malé dítě, které najde ve městě.
 
 ### Ukázka
-_Krysař stál nad propastí, chmurnější, velebnější. Mocně a slavně zněla píšťala.
+_Krysař stál nad propastí, chmurnější, velebnější. Mocně a slavně zněla píšťala._
 
-Nikdo z Hameln nezastavil se před branou. Nikdo, kromě Seppa Jörgena, zamyšleného nad hladinou řeky. Všichni prošli za zvuků píšťaly s důvěrným úsměvem a rozepjatou náručí: Oh země sedmihradská! Všichni prošli a mizeli bez hlesu. A chmurný a němý vůdce pískal a pískal. Dav řídl za zvuků písně krysařovy; posléze krysař osaměl nad propastí —
+_Nikdo z Hameln nezastavil se před branou. Nikdo, kromě Seppa Jörgena, zamyšleného nad hladinou řeky. Všichni prošli za zvuků píšťaly s důvěrným úsměvem a rozepjatou náručí: Oh země sedmihradská! Všichni prošli a mizeli bez hlesu. A chmurný a němý vůdce pískal a pískal. Dav řídl za zvuků písně krysařovy; posléze krysař osaměl nad propastí —_
 
-Vzpomněl na „ano“ řečené jarního večera. Vzpomněl Agnes, která ho předešla, ale kterou možno dohoniti. Naklonil se nad propastí.
+_Vzpomněl na „ano“ řečené jarního večera. Vzpomněl Agnes, která ho předešla, ale kterou možno dohoniti. Naklonil se nad propastí._
 
-Bylo ticho, zvláštní ticho. Píšťala padla z krysařových rukou. A jeho píšťala znamenala život.
+_Bylo ticho, zvláštní ticho. Píšťala padla z krysařových rukou. A jeho píšťala znamenala život._
 
-Zvuky její jako by ještě doznívaly v pádu: zvuky její vedly krysaře, jako vedly dav —
+_Zvuky její jako by ještě doznívaly v pádu: zvuky její vedly krysaře, jako vedly dav —_
 
-„Ano,“ odpovídal krysař němé propasti. A také on hledal bránu.
+_„Ano,“ odpovídal krysař němé propasti. A také on hledal bránu._
 
-Tak odešel krysař a ostatní z Hameln; není však jisto, došli-li do země sedmihradské._
+_Tak odešel krysař a ostatní z Hameln; není však jisto, došli-li do země sedmihradské._
 
 ### Inspirace
 - V roce 1996 vznikl **muzikál** (Daniel Landa)
 - Několik **filmových zpracování**
   - 1933 - animovaný film, studium W. Disney
-  - 2003 český film, režie J. Brabec
-  - Shrek (2001, 2004, 2007, 2010) - odlehčené a zábavné zpracování Krysaře
+  - 2003 - český film, režie J. Brabec
+  - Shrek - odlehčené zpracování Krysaře
 
 ## Literární kontext
 - **přelom 19. a 20. století**
 - zkonstruován první český **automobil**, první české **kino**
-- Myšlenky austroslavismu, **vyostřování vztahů mezi Německými a Českými zeměmi**
-  - Snahy o samostatnost
+- Myšlenky austroslavismu, **vyostřování vztahů mezi Německými a Českými zeměmi**, snahy o samostatnost
 
 ### Anarchističtí buřiči
 - **negativní postoj vůči společnosti**

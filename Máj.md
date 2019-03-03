@@ -1,26 +1,26 @@
 # Máj
 
-## Karel Hynek Mácha (1810 - 1836)
+## Karel Hynek Mácha (1810--1836)
 
 ### Život
-- pravým jménem Ignác Mácha
+- pravým jménem **Ignác Mácha**
 - advokátní praktikant
-- zájem o divadlo - ochotník Stavovského a Kajetánského divadla
-- cestování - Itálie, české hrady
-- nejprve píše německy, poté česky (vliv J. Jungmana - navštěvoval jeho přednášky)
-- umírá ve 26 letech - cholera/západ plic
+- zájem o **divadlo** -- ochotník Stavovského a Kajetánského divadla
+- **cestování** -- Itálie, české hrady
+- nejprve píše německy, poté česky (vliv J. Jungmana -- navštěvoval jeho přednášky)
+- umírá ve 26 letech -- cholera/zápal plic
   - velká část tvorby vydána posmrtně
 
 ### Dílo
-- **V svět jsem vstoupil** – báseň (založena na protikladech; pocity zklamání a osamělosti, pesimismus)
-- **Cikáni** – román (jeho nejrozsáhlejší dílo)
-- **Obrazy ze života mého** - lyrické povídky s autobiografickými prvky
-- **Márinka** - romantická povídka
-- **Křivoklád** - historický román (část zamýšleného čtyřdílného cyklu Kat)
+- **V svět jsem vstoupil** -- báseň (založena na protikladech; pocity zklamání a osamělosti, pesimismus)
+- **Cikáni** -- román (jeho nejrozsáhlejší dílo)
+- **Obrazy ze života mého** -- lyrické povídky (s autobiografickými prvky)
+- **Márinka** -- romantická povídka
+- **Křivoklád** -- historický román (část zamýšleného čtyřdílného cyklu Kat)
 
 ## Rozbor
 - vydáno 1836
-- nepřijato soudobou společností:
+- nepřijato soudobou společností (národního obrození)
   - nemá výchovný prvek
   - staví jedince nad společnost, kterou kritizuje
 
@@ -30,25 +30,25 @@
 - kompozice: **6 částí**
   - 4 zpěvy, 2 intermezza
   - na úvod dedikační báseň Čechové jsou národ věrný
-- časoprostor: **Máchův kraj** (okolí hradu Bezděz),
+- časoprostor: **Máchův kraj** (okolí hradu Bezděz), během 4 dnů (a poté po 7 letech)
 - téma: **zobrazení májové přírody a lidského neštěstí**
-- motivy: láska; žárlivost; spravedlnost; nadpřirozenost
+- motivy: láska; žárlivost; spravedlnost; nadpřirozeno; příroda
 - inspirace: skutečný příběh českých vesnic, Máchův rodný kraj
 
 ### Jazyk
 - psáno **spisovným jazykem** - archaický, knižní
 -	jamb a trochej
 -	množství básnických přívlastků, metafor a přirovnání
--	typické oxymórony
+-	typické oxymórony -- mrtvé milenky cit
 
 ### Postavy
--	**Vilém** – syn Hynka, který ho vyhnal z domu, loupežník; typický romantický hrdina - na okraji společnosti, nevěří na svou vinu
--	**Hynek** – svůdník Jarmily, otec Viléma
--	**Jarmila** – minlenka Viléma; kvůli lásce spáchá sebevraždu
--	**Poutník** – ztotožnění s autorem; objevuje se na konci díla
+-	**Vilém** -- syn Hynka, který ho vyhnal z domu, loupežník; typický romantický hrdina - na okraji společnosti, nevěří na svou vinu
+-	**Hynek** -- svůdník Jarmily, otec Viléma; vyobrazován ve špatném světle
+-	**Jarmila** -- minlenka Viléma; kvůli lásce spáchá sebevraždu
+-	**Poutník** -- ztotožnění s autorem; objevuje se na konci díla
 
 ### Děj
-- první zpěv - **Jarmilina smrt**
+- první zpěv - **Jarmilino čekání a sebevražda**
   - obrazy májové přírody + motivy lásky
   - Jarmila čeká na milého, ale dostane zprávu, že je ve vězení, protože zavraždil otce
     - spáchá sebevraždu skokem do jezera... „Jarmilo! Jarmilo! Jarmilo!!!“
@@ -57,7 +57,8 @@
   - zamiloval se do dívky a zavraždil jejího svůdce, ve kterém nepoznal vlastního otce
   - otazníky viny, prázdnoty a nicoty
 - první intermezzo - **sbor duchů očekává svého mrtvého**
-- třetí zpěv - **vrchol básně, Vilémova poprava**
+- třetí zpěv - **Vilémova poprava**
+  - vrchol básně
   - krása přírody X lidský osud
   - vyznění lásky k rodné zemi
   - vzpomínky na Máchovo dětství
@@ -96,23 +97,23 @@ _v matku svou, v matku svou, krev syna teče po ní._
 ### Inspirace
 -	Máj = **symbol lásky**
 -	výrazný vliv na následující generaci básníků
-  - almanach Máj – májovci
+  - almanach Máj -- májovci
   - Jan Neruda, Vítězslav Hálek, Karolína Světlá, Jakub Arbes, Adolf Heyduk, Václav Šolc, (Karel Sabina, Božena Němcová)
--	Josef Kajetán Tyl – Rozervanec, v němž kritizuje Máchu píšícího o svých citech
--	Josef Hora – Máchovské variace
+-	Josef Kajetán Tyl -- Rozervanec, v němž kritizuje Máchu píšícího o svých citech
+-	Josef Hora -- Máchovské variace
 
 ## Literární kontext
 - **romantismus**
   - období mezi revolucemi 1789 (VFR) a 1848 (v celé Evropě)
   - reakce na osvícenství, duchovní krize a napoleonské války
-  - z fr. romantique - jako v románu; tajemný, fantastický
-  - v Čechách se nikdy plně nerozvinul – Mácha jediný představitel
+  - z fr. romantique -- jako v románu; tajemný, fantastický
+  - v Čechách se nikdy plně nerozvinul -- Mácha jediný představitel
 - charakteristická znaky
   - **národní charakter**
-  - kult hrdiny – splývá s autorem
+  - kult hrdiny -- splývá s autorem
   - obdiv k lidovému umění
-  - **citovost** – únik do vlastního nitra
-  - **láska** – obvykle **nenaplněná**
+  - **citovost** -- únik do vlastního nitra
+  - **láska** -- obvykle **nenaplněná**
   - světobol, rozervanost, osudovost
   - člověk zobrazen jako **vyjímečná osobnost**
 

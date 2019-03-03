@@ -3,13 +3,13 @@
 ## Karel Havlíček Borovský (1821 - 1856)
 
 ### Život
-- vlastní jméno Karel Havlíček, podepisoval se jako “Borovský Havel”
+- vlastní jméno Karel Havlíček, podepisoval se jako **“Borovský Havel”**
 - chtěl ovlivnit společnost (kněžský seminář, ale byl vyloučen)
-  - vystupoval proti církve, policii a absolutistické státní moci
+  - vystupoval proti církvi, policii a absolutistické státní moci  
 - **zakladatel moderní české žurnalistiky**
   - založil Národní noviny se satirickou přílohou Šotek
   - později kutnohorský časopis Slovan
-  - za žurnalistickou činnost vícekrát odsouzen – 1851 deportován do Brixenu
+  - za žurnalistickou činnost vícekrát odsouzen – 1851 deportován do Brixenu  
 - překlady (polština, němčina, francouzština)
 - zobrazení absurdity - lynčování novinářů = pomsta národu
 - pobyt v Rusku – zklamání –> kritický k myšlence slovanské vzájemnosti
@@ -31,7 +31,7 @@
 - literární druh: **poezie**
 - literární žánr: **satirická báseň, elegie**
 - kompozice: **9 částí** označených římskými číslicemi
-- časoprostor: **Cesta z Čech do Tyrolska**
+- časoprostor: **Cesta z Čech do Tyrolska, 1851**
 - téma: **Vystoupení proti absolutismu a násilí** ve formě **autobiografie deportace do Brixenu.**
 - motivy: satira a sarkasmus, bezmoc, stesk, smutek, politika
 - inspirace: události autorova života
@@ -76,30 +76,28 @@ _z vozu vyskočit.“_
 
 ### Inspirace
 -	stává se symbolem protestu proti absolutismu
-  - Jaroslav Hutka - píseň Havlíčku, Havle
+- Jaroslav Hutka - píseň **Havlíčku, Havle** (o Borovském i Havlovi)
 
 
 ## Literární kontext
-- v Čechách vrcholí národního obrození
-- zaměření na národní snahy
+- v Čechách vrcholí národní obrození -- zaměření na národní snahy
 - autoři se nechávají ovlivňovat lidovou slovesností (sběratelská činnosti)
 
 ### Božena Němcová (1620 - 1684)
-- zakladatelka novodobé české prózy
+- zakladatelka **novodobé české prózy**
 - realistické tendence – např. motivy sociální nerovnosti
-- Babička - vzpomínková próza
+- vzpomínková próza **Babička**
 
 ### Karel Jaromír Erben
 - romantická literatura vycházející z národních tradic
 - sbírka lidové tvorby
-- Kytice z pověstích národních
-  - sbírka lyricko-epických básní
+- sbírka lyricko-epických básní **Kytice** z pověstích národních
 
 ### Josef Kajetán Tyl
-- zakladatel moderního českého divadla
+- zakladatel **moderního českého divadla**
 - tvůrce textu české národní hymny – Kde domov můj?
-- Fidlovačka aneb Žádný hněv a žádná rvačka (komedie)
+- **Fidlovačka** aneb Žádný hněv a žádná rvačka (komedie)
 
 ###  Karel Hynek Mácha
-- jediný český představitel romantismu
-- báseň Máj
+- jediný český představitel **romantismu**
+- báseň **Máj**

@@ -34,7 +34,6 @@
 - inspirace: Hemingwayův pobyt na Kubě, výpravy do Afriky
   - **teorie ledovce** -- autor píše minimum a čtenář si zbytek domýšlí (inspirováno jeho novinařinou)
 
-
 ### Jazyk
 - prostý **spisovný** jazyk
 - **er-forma**
@@ -49,7 +48,6 @@
 
 ### Děj
 Starý rybář, který už 85 dní nevylovil žádnou rybu, odjíždí na moře, odhodlaný něco chytit. Po nějaké době zabere ryba, se kterou Santiago bojuje dva dny a dvě noci, při kterých postupně odhaluje velikost a krásu této ryby. Touží nad ni zvítězit, zároveň ji však obdivuje -- zabíjí z lásky. Během této doby si zajišťuje rybařením základní potřeby a zároveň přemýšlí nad svým životem. Rybu přemůže, ale při zpáteční cestě je několikrát napaden žraloky, kteří z ryby uvázané na boku lodi postupně ohlodají všechno maso. Dorazí pouze s kostrou, díky které získá obdiv ostatních rybářů a Manoli slibuje, že s ním bude jezdit na moře -- má se toho ještě mnoho co naučit.
-
 
 ### Ukázka
 _Sebral veškerou svou bolest a zbytek svých sil a svou dávno ztracenou hrdost a postavil je proti smrtelné úzkosti ryby a ryba se převrátila na bok a plula mírně na boku, dotýkajíc se téměř svým mečovitým výrůstkem bednění loďky, a začala míjet člun, dlouhá, nořící se do hloubky a široká, stříbrná a temně purpurově pruhovaná a ve vodě zdánlivě nekonečná._
@@ -66,7 +64,6 @@ a vystavila se na odiv v celé nesmírné délce a šířce a ve vší své
 mohutnosti a kráse. Zdálo se, že visí ve vzduchu nad starcem v loďce.
 A pak dopadla do vody s drtivým plesknutím, které postříkalo starce
 i celou loďku vodním popraškem._
-
 
 ### Inspirace
 - několikrát zfilmováno (od 1958 do 1999)
@@ -97,9 +94,8 @@ i celou loďku vodním popraškem._
 - sám se války nezúčastnil, ale mapoval situaci těsně po ní
 - **poema Pustina**
 
-
 ### Romain Rolland (FR)
-- **Petr a Lucie** (novela) - bombardování Paříže
+- **Petr a Lucie** (novela) -- bombardování Paříže
 
 ### Arnold Zweig (DE)
 - německý spisovatel židovského původu

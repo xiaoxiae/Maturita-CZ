@@ -36,35 +36,35 @@
 - inspirace: skutečný příběh českých vesnic, Máchův rodný kraj
 
 ### Jazyk
-- psáno **spisovným jazykem** - archaický, knižní
+- psáno **spisovným jazykem** -- archaický, knižní
 -	jamb a trochej
 -	množství básnických přívlastků, metafor a přirovnání
 -	typické oxymórony -- mrtvé milenky cit
 
 ### Postavy
--	**Vilém** -- syn Hynka, který ho vyhnal z domu, loupežník; typický romantický hrdina - na okraji společnosti, nevěří na svou vinu
+-	**Vilém** -- syn Hynka, který ho vyhnal z domu, loupežník; typický romantický hrdina -- na okraji společnosti, nevěří na svou vinu
 -	**Hynek** -- svůdník Jarmily, otec Viléma; vyobrazován ve špatném světle
--	**Jarmila** -- minlenka Viléma; kvůli lásce spáchá sebevraždu
+-	**Jarmila** -- milenka Viléma; kvůli lásce spáchá sebevraždu
 -	**Poutník** -- ztotožnění s autorem; objevuje se na konci díla
 
 ### Děj
-- první zpěv - **Jarmilino čekání a sebevražda**
+- první zpěv -- **Jarmilino čekání a sebevražda**
   - obrazy májové přírody + motivy lásky
   - Jarmila čeká na milého, ale dostane zprávu, že je ve vězení, protože zavraždil otce
     - spáchá sebevraždu skokem do jezera... „Jarmilo! Jarmilo! Jarmilo!!!“
-  - druhý zpěv - **Vilémovy vzpomínky**
+- druhý zpěv -- **Vilémovy vzpomínky**
   - vyhnán otcem z domova, stává se vůdcem loupežníků („strašný lesa pán“)
   - zamiloval se do dívky a zavraždil jejího svůdce, ve kterém nepoznal vlastního otce
   - otazníky viny, prázdnoty a nicoty
-- první intermezzo - **sbor duchů očekává svého mrtvého**
-- třetí zpěv - **Vilémova poprava**
+- první intermezzo -- **sbor duchů očekává svého mrtvého**
+- třetí zpěv -- **Vilémova poprava**
   - vrchol básně
   - krása přírody X lidský osud
   - vyznění lásky k rodné zemi
   - vzpomínky na Máchovo dětství
   - končí veršem „Viléme! Viléme! Viléme!!!“
-- druhé intermezzo - **žalozpěv loupežníků nad ztrátou vůdce**
-- čtvrtý zpěv - **básníkův návrat**
+- druhé intermezzo -- **žalozpěv loupežníků nad ztrátou vůdce**
+- čtvrtý zpěv -- **básníkův návrat**
   - básník se ztotožňuje s Vilémem i poutníkem
   - po 7 letech na místě Vilémovy popravy
   - úvaha nad tragikou osudu
@@ -79,7 +79,7 @@ _pak blyskne meč, kat rychlý stoupne krok,_
 
 _v kolo tne meč, zločinci blyskne v týle,_
 
-_upadla hlava - skok i - ještě jeden skok_
+_upadla hlava -- skok i -- ještě jeden skok_
 
 _i tělo ostatní ku zemi teď se skloní._
 
@@ -126,7 +126,7 @@ _v matku svou, v matku svou, krev syna teče po ní._
 
 ### Francie
 - Viktor Hugo (romány Chrám matky boží v Paříži, Bídníci)
-- Francois-René de CHateaubriand (novela René)
+- Francois-René de Chateaubriand (novela René)
 - George Sandová (průkopnice emancipace žen)
 - Alfred de Musset (autobiografický román Zpověď dítěte svého věku)
 

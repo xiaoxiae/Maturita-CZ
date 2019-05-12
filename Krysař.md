@@ -1,6 +1,6 @@
 # Krysař
 
-## Viktor Dyk (1877 - 1931)
+## Viktor Dyk (1877--1931)
 
 ### Život
 - nejprve člen **anarchistických buřičů**, poté spíše **nacionalistický** autor
@@ -15,15 +15,15 @@
   - stává se poslancem a senátorem
 - vášnivý **šachista**
 - zemřel na srdeční zástavu při koupání v jaderském moři
-  - předvídání smrti - básnická sbírka **Devátá vlna**
+  - předvídání smrti -- básnická sbírka **Devátá vlna**
 
 ### Dílo
-- **Krysař** - novela (tragický příběh Krysaře a Agnes)
-- **Válečná tetralogie** - čtyři básnické sbírky (o 1. sv. válce)
-- **Satiry a sarkasmy** - básnická sbírka (kritika polečnosti a politiky)
-- **Milá sedmi loupežníků** - román (zrada, láska)
-- **Zmoudření Dona Quijota** - divadelní hra (tragédie, inspirované Cervantesovým románem)
-- **Devátá vlna** - básnická sbírka (melancholie, předvívání smrti)
+- **Krysař** -- novela (tragický příběh Krysaře a Agnes)
+- **Válečná tetralogie** -- čtyři básnické sbírky (o 1. sv. válce)
+- **Satiry a sarkasmy** -- básnická sbírka (kritika společnosti a politiky)
+- **Milá sedmi loupežníků** -- román (zrada, láska)
+- **Zmoudření Dona Quijota** -- divadelní hra (tragédie, inspirované Cervantesovým románem)
+- **Devátá vlna** -- básnická sbírka (melancholie, předvídání smrti)
 
 ## Rozbor
 - původně vycházela v časopise **Lumír** pod názvem **Pravdivý příběh**  
@@ -35,29 +35,29 @@
 - časoprostor: Německé **město Hammeln** a jeho okolí
 - téma: **základní lidské hodnoty, kritika povrchnosti**
 - námět: příběh krysaře, který přišel město očistit od krys
-- motivy: **povrchnost**, nelidskost, **milostné motivy**, tajemno, **moc**  
+- motivy: **povrchnost**, nelidskost, **milostné motivy**, tajemno, **moc**
 - inspirace: **staroněmecká legenda**
 
 ### Jazyk
 - **spisovný** jazyk
 - **er-forma**
 - **neobvyklý větný pořádek**
-- **krátké věty, řečnické otázky - napětí**
+- **krátké věty, řečnické otázky -- napětí**
 - **monology** postav  
-- **metafory** (milenka sebevrahů - propast)
+- **metafory** (milenka sebevrahů -- propast)
 - **personifikace** (řeka vystoupí z břehů)
 - **symbolika**
-  - **zaplavení krysami** - pokles morálky městské společnosti
-    - **krysy** - přetvářka, společenská špína
-  - **sedmihradské království** - symbol splněných snů
-  - **píšťala** - symbol moci
+  - **zaplavení krysami** -- pokles morálky městské společnosti
+    - **krysy** -- přetvářka, společenská špína
+  - **sedmihradské království** -- symbol splněných snů
+  - **píšťala** -- symbol moci
 
 ### Postavy
-- **Krysař** - **nemá úctu ke společnosti** (až znechucení), přesto je se svou rolí spokojený
-- **Agnes** - obyvatelka Hameln; přestože má milence, naváže vztah s Krysařem
-- **dlouhý Kristián** - milenec Agnes; uznávaný, touží po dedictví svého strýce
-- **Sepp Jörgen** - rybář; zpožděné vnímání (na vše reaguje až den poté), symbol čisté duše
-- Lora a Kätchen - dcery měšťanů; vysmívají se Jörgenovi
+- **Krysař** -- **nemá úctu ke společnosti** (až znechucení), přesto je se svou rolí spokojený
+- **Agnes** -- obyvatelka Hameln; přestože má milence, naváže vztah s Krysařem
+- **dlouhý Kristián** -- milenec Agnes; uznávaný, touží po dedictví svého strýce
+- **Sepp Jörgen** -- rybář; zpožděné vnímání (na vše reaguje až den poté), symbol čisté duše
+- Lora a Kätchen -- dcery měšťanů; vysmívají se Jörgenovi
 - radní města Hameln
 - Faust
 
@@ -86,9 +86,9 @@ _Tak odešel krysař a ostatní z Hameln; není však jisto, došli-li do země 
 ### Inspirace
 - V roce 1996 vznikl **muzikál** (Daniel Landa)
 - Několik **filmových zpracování**
-  - 1933 - animovaný film, studium W. Disney
-  - 2003 - český film, režie J. Brabec
-  - Shrek - odlehčené zpracování Krysaře
+  - 1933 -- animovaný film, studium W. Disney
+  - 2003 -- český film, režie J. Brabec
+  - Shrek -- odlehčené zpracování Krysaře
 
 ## Literární kontext
 - **přelom 19. a 20. století**

@@ -14,9 +14,9 @@
 - spáchal **sebevraždu** brokovnicí (paranoidní, podobná nemoc jako jeho otec)
 
 ### Dílo
-- **Pátá kolona** -- drama (o španělské občanké válce)
+- **Pátá kolona** -- drama (o španělské občanské válce)
 - **Komu zvoní hrana** -- román (o španělské občanské válce)
-- **Sbohem, armádo!** -- román (1. sv. válka v itálii)
+- **Sbohem, armádo!** -- román (1. sv. válka v Itálii)
 - **Zelené pahorky africké** -- povídka (o lovu v Africe)
 - **Fiesta (I slunce vychází)** -- román (o Paříži)
 
@@ -24,7 +24,7 @@
 - za knihu obdržel **Nobelovu** cenu za literaturu (1954)
 
 ### Obecné informace
-- literární druh: **epika**
+- literární druh: **próza**
 - literární žánr: **novela**  
 - kompozice: **chronologická, nečleněno**
 - časoprostor: Kuba, nedaleko Havany, 40. léta 20. století (není však uvedeno)

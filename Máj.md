@@ -98,7 +98,7 @@ _v matku svou, v matku svou, krev syna teče po ní._
 -	Máj = **symbol lásky**
 -	výrazný vliv na následující generaci básníků
   - almanach Máj -- májovci
-  - Jan Neruda, Vítězslav Hálek, Karolína Světlá, Jakub Arbes, Adolf Heyduk, Václav Šolc, (Karel Sabina, Božena Němcová)
+  - **Jan Neruda, Vítězslav Hálek, Karolína Světlá,** Jakub Arbes, Adolf Heyduk, Václav Šolc, (Karel Sabina, Božena Němcová)
 -	Josef Kajetán Tyl -- Rozervanec, v němž kritizuje Máchu píšícího o svých citech
 -	Josef Hora -- Máchovské variace
 
@@ -118,28 +118,28 @@ _v matku svou, v matku svou, krev syna teče po ní._
   - člověk zobrazen jako **vyjímečná osobnost**
 
 ### Německo
-- Novalis (sbírka básní Hymny noci)
-- Heinrich Heine (sbírka básní Kniha písní)
+- **Novalis** (sbírka básní Hymny noci)
+- **Heinrich Heine** (sbírka básní Kniha písní)
 - bratři Gimmové (sbírají lidové pohádky)
 - Johan Wolfgang Goethe (romány Prometheus, Utrpení mladého Werthera)
 - Fridrich Schiller (román Loupežníci)
 
 ### Francie
-- Viktor Hugo (romány Chrám matky boží v Paříži, Bídníci)
+- **Viktor Hugo** (romány Chrám matky boží v Paříži, Bídníci)
 - Francois-René de Chateaubriand (novela René)
 - George Sandová (průkopnice emancipace žen)
 - Alfred de Musset (autobiografický román Zpověď dítěte svého věku)
 
 ### Anglie
-- George Gordon Byron (filozofické veršované drama Manfréd, autobiografický moderní epos Childe Haroldova pouť)
+- **George Gordon Byron** (filozofické veršované drama Manfréd, autobiografický moderní epos _Childe Haroldova pouť_)
+- **Jane Austen** (román Pýcha a předsudek)
 - Percy Bysshe Shelley (lyrické veršované drama Odpoutaný Prometheus)
 - Mary Schelley (román Frankenstein)
-- Jane Austen (román Pýcha a předsudek)
 - Emily Bronteová (román Na větrné hůrce)
 - Walter Scott (první historický román Waverly)
 
 ### Rusko
-- Alexander Sergejevič Puškin (Evžen Oněgin)
+- **Alexander Sergejevič Puškin** (Evžen Oněgin)
 - Michail Jurjevič Lermontov (psychologický román Hrdina naší doby)
 
 ### Čechy

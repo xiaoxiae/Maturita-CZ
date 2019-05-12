@@ -19,14 +19,13 @@
 
 ### Obecné informace
 - literární druh: **próza**
-- literární žánr: **humoristický román** s prvky satiry
+- literární žánr: **humoristický román** s prvky satiry  
 - kompozice: **chronologická**, členěno do **kapitol**
   - v úvodu každé z kapitol je vždy **osnova**
 - časoprostor: **Praha**, venkov (úpatí Hradové), čas **není přesně určen** (20. století)
 - téma: **humoristický příběh pána a jeho sluhy**
-- námět:
 - motivy: humor, láska, chamtivost
-- inspirace: **My Man Jeeves** (P. G. Wodehouse, 1920) -- svérázný sluha
+- inspirace: **My Man Jeeves** (P. G. Wodehouse) -- svérázný sluha
 
 ### Jazyk
 - vyprávěno v **ich-formě**

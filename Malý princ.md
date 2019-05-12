@@ -7,9 +7,9 @@
 - **letec** (vojenská služba i civilní život) -- Evropa, Afrika i Jižní Amerika
   - několikrát vážně havaroval -- jednou konkrétně na poušti (inspirace)
 - **finanční potíže** -- přivydělával si psaním reportáží
-- během 2. sv. války **odešel do USA**, aby přesvědšil Americkou vládu, aby se připojila do války
+- během 2. sv. války **odešel do USA**, aby přesvědčil Americkou vládu, aby se připojila do války
 - trpěl depresemi -- osočen z podpory Němců
-- 1944 -- **ztratil se s letadlem** při letu přes Středozemní oceán (možná sestřelen)
+- 1944 -- **ztratil se s letadlem** při letu přes Středozemní moře (možná sestřelen)
 
 ### Dílo
 - **Kurýr na jih** -- román (milostný příběh letce)
@@ -22,7 +22,7 @@
 - autor knihu sám ilustroval
 
 ### Obecné informace
-- literární druh: **epika**
+- literární druh: **próza**
 - literární žánr: **filozofická pohádka**  
 - kompozice: **chronologická retrospektivní,** členěno do **27 kapitol**
   - **na úvod je věnování** Leónu Werthovi, když byl ještě dítě
@@ -51,13 +51,13 @@
 ### Děj
 Kniha začíná vzpomínkou na dětství, jak se Exupéry pokouší nakreslit hroznýše, který zrovna tráví slona. Vždy když svou kresbu ukázal někomu dospělému, tvrdil mu, že se jedná o klobouk. Dospělí mu radili aby s místo malování věnoval raději škole. Zde ukazuje, že dospělí nechápou dětský svět, protože je plný fantazie.
 
-Příběh začíná ve chvíli, kdy pilot ztroskotá se svým letadlem uprostřed Sahary. Najednou se u něho objeví malý chlapec – malý princ. Jejich rozhovor začne tím, že malý princ chce po pilotovi, aby mu nakreslil beránka. Pilot musí beránka nakreslit několikrát znovu, protože malému princi se pořád nelíbí. Dokonce se rozčílí, když malý princ není stále spokojen, nakreslí jen bedýnku a řekne: “To je bedýnka. Beránek, kterého chceš, je uvnitř!” Načež malý princ je konečně spokojen. Tím začne jejich přátelství.
+Příběh začíná ve chvíli, kdy pilot ztroskotá se svým letadlem uprostřed Sahary. Najednou se u něho objeví malý chlapec -- malý princ. Jejich rozhovor začne tím, že malý princ chce po pilotovi, aby mu nakreslil beránka. Pilot musí beránka nakreslit několikrát znovu, protože malému princi se pořád nelíbí. Dokonce se rozčílí, když malý princ není stále spokojen, nakreslí jen bedýnku a řekne: “To je bedýnka. Beránek, kterého chceš, je uvnitř!” Načež malý princ je konečně spokojen. Tím začne jejich přátelství.
 
 Poté malý princ začne pilotovi vyprávět, odkud přišel, o své malé planetce B612. Ve vyprávění můžeme nepřímo nalézt různá poučení například, že Malý princ musí na planetě pravidelně plít semena baobabů. Kdyby jeden den vynechal, baobaby by se rozrostly a poté by mohly roztrhat celou jeho malou planetku.
 
 Příběh dále pokračuje vyprávěním o květině malého prince. Na jeho planetku přiletělo neznámé semeno a vyklíčila z něj krásná rostlina. Květina se pořád pyšnila svojí krásou a malému princi poroučela, jak se o ni má starat. I když mu celou dobu poroučela, ve skutečnosti jen skrývala svoji něžnost a lásku k malému princi. On to však tehdy nechápal. Až když malý princ odjížděl, květina mu řekla, že ho má celou dobu ráda. Na své planetce měl také tři sopky, z nichž jedna byla vyhaslá. Pro jistotu ale všechny tři vymetal, aby se něco nestalo. Důležitá byla pravidelnost a zodpovědnost.
 
-Poté co malý princ opustil svojí planetku, vydal se na cestu po ostatních planetách. Potkal zde mnoho různých lidí. Na první planetce poznal krále, který chtěl pořád někomu rozkazovat. Na celé planetě byl však sám. Z malého prince chtěl udělat svého poddaného. Král si myslel, že všechno patří jen jemu a že ho všichni poslouchají. Ve skutečnosti to bylo přesně naopak. Na druhé planetě bydlel domýšlivec. Chtěl, aby ho malý princ obdivoval. Na třetí planetě bydlel pijan. Když se ho malý princ zeptal, proč pije, odpověděl: “Abych zapomněl. – Abych zapomněl, že se stydím. – Stydím se, že piji…” Na čtvrté planetě bydlel byznysmen. Nedělal nic jiného, než že počítal, kolik má hvězd. Myslel si, že všechno je jen jeho majetek. Nezajímalo ho nic jiného, než kolik má hvězd a co s nimi poté může udělat. Na páté planetě žil lampář se svítilnou. Pořád dokola jen rozsvěcoval a zhasínal svítilnu. Pořád dokola. Když se ho malý princ zeptal, proč si neodpočine, lampář mu odpoví, že musí vždy ráno a večer zhasínat a rozsvěcet. Je to příkaz. Jenže planeta se točí čím dál tím rychleji, a proto nemá čas na odpočinek. Šestá planeta byla obrovská. Bydlel na ní starý pán – zeměpisec. Nikdy ale nikam nejel. Malému princi řekl, že by měl jet prozkoumat Zemi.
+Poté co malý princ opustil svojí planetku, vydal se na cestu po ostatních planetách. Potkal zde mnoho různých lidí. Na první planetce poznal krále, který chtěl pořád někomu rozkazovat. Na celé planetě byl však sám. Z malého prince chtěl udělat svého poddaného. Král si myslel, že všechno patří jen jemu a že ho všichni poslouchají. Ve skutečnosti to bylo přesně naopak. Na druhé planetě bydlel domýšlivec. Chtěl, aby ho malý princ obdivoval. Na třetí planetě bydlel pijan. Když se ho malý princ zeptal, proč pije, odpověděl: “Abych zapomněl. -- Abych zapomněl, že se stydím. -- Stydím se, že piji…” Na čtvrté planetě bydlel byznysmen. Nedělal nic jiného, než že počítal, kolik má hvězd. Myslel si, že všechno je jen jeho majetek. Nezajímalo ho nic jiného, než kolik má hvězd a co s nimi poté může udělat. Na páté planetě žil lampář se svítilnou. Pořád dokola jen rozsvěcoval a zhasínal svítilnu. Pořád dokola. Když se ho malý princ zeptal, proč si neodpočine, lampář mu odpoví, že musí vždy ráno a večer zhasínat a rozsvěcet. Je to příkaz. Jenže planeta se točí čím dál tím rychleji, a proto nemá čas na odpočinek. Šestá planeta byla obrovská. Bydlel na ní starý pán -- zeměpisec. Nikdy ale nikam nejel. Malému princi řekl, že by měl jet prozkoumat Zemi.
 
 Jeho sedmá navštívená planeta byla Země. Na poušti potkal hada. Ten mu řekl, že když někoho uštkne, může ho vrátit zpátky na zem, ze které přišel. Poté potká květinu. Ta mu řekne, kde jsou nějací lidé, malý princ se vydá tím směrem. Šel pořád dál, až došel do zahrady plné růži. Zde byly všechny květiny jako ta, kterou měl na své planetce. Ta mu přitom tvrdila, že je jediná na světě. Byl smutný z toho, že si myslel, že má doma unikát a přitom má květinou stejnou jako všechny ostatní.
 
@@ -81,8 +81,7 @@ _"Poušť je krásná právě tím, že někde skrývá studnu…," řekl malý 
 
 _Byl jsem překvapen, že pojednou chápu to tajemné záření písku. Když jsem byl malým chlapcem, bydlil jsem ve starobylém domě a pověst vyprávěla, že je tam zakopán poklad. Nikdy jej ovšem nikdo nedovedl objevit a snad jej ani nehledal. Ale dodával kouzlo celému tomu domu. Můj dům skrýval ve svých hlubinách tajemství…_
 
-_"Ano," řekl jsem malému princi, "ať je to dům, hvězdy nebo poušť, to, co je dělá krásnými, je neviditelné!"“_
-
+_"Ano," řekl jsem malému princi, "ať je to dům, hvězdy nebo poušť, to, co je dělá krásnými, je neviditelné!"_
 
 ### Inspirace
 - muzikál Malý princ (1974) -- režie Stanley Donen

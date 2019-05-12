@@ -18,7 +18,7 @@
 - **Na prahu ráje** -- román (proměny hodnot americké společnosti po první světové válce)
 - **Velký Gatsby**  -- román (příběh nešťastné lásky zbohatlíka)
 - **Něžná je noc**  -- román (psychiatr se ožení se svou duševně nemocnou pacientkou Nicole)
-- **Podivuhodný případ Benjamina Buttona** -- povídka
+- **Podivuhodný případ Benjamina Buttona** -- povídka (narodí se miminko, které vypadá na 80 a roste pozpátku)
 - **Poslední magnát** -- román (nedokončený,  vycházel ze svých životních zkušeností ze života a psaní v Hollywoodu)
 
 ## Rozbor
@@ -27,11 +27,11 @@
 
 ### Obecné informace
 - literární druh: **próza**
-- literární žánr: **sociálně-kritický román**
+- literární žánr: **sociálně-kritický román**  
 - kompozice: **chronologická, retrospektivní**, členěno do **kapitol**
 - časoprostor: **New York**, přelom **20. let 20. století** (**„jazzový věk“** -- období blahobytu v USA)
 - téma: kritika snobství a povrchnosti, americký sen, **nestálost a přetvářka života smetánky**
-- motivy: láska, bohatství, povrchnost  
+- motivy: láska, bohatství, povrchnost
 - inspirace: **oslavami, kterých se Fitzgerald účastnil** při jeho pobytu na Long Islandu
 
 ### Jazyk

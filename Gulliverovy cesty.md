@@ -89,7 +89,7 @@ _Chystal jsem se na další podrobnosti, a tu mi pán poručil, abych mlčel. Ř
 
 ### Voltaire (FR, 1694--1778)
 - francouzský dramatik, spisovatel, filozof, historik
-- ostře a **jízlivě útočil proti každému projevu nesvobody** -- často ve vězení
+- ostře a jízlivě **útočil proti každému projevu nesvobody** -- často ve vězení
 - část života musel strávit v Anglii a v Berlíně
 - satiricko-filozofický **román Candide**
   - hlavní hrdina -- morálně čistý a nezkušený Candid Charles

@@ -28,10 +28,10 @@
 ### Obecné informace
 - literární druh: **próza**
 - literární žánr: **alegorický román**
-  - psáno **formou bajky**, kratší rozsah
+  - psáno **formou bajky**, kratší rozsah  
 - kompozice: **chronologická**, členěno do **10 kapitol**
 - časoprostor: **statek v Anglii**, čas **neurčen**
-- téma: **rozklad socialistických ideí** (lidé dělají vše pro svůj prospěch)
+- téma: **rozklad socialistických idejí** (lidé dělají vše pro svůj prospěch)
 - námět: překonání strachu, **manipulace** s lidmi, **kritika diktátorského režimu a totality**
 - motivy: **korupce, dystopie,** komunismus, morálka, víra (rituály)
 - hlavní myšlenka: Komunismus se **na první pohled** může zdát jako dobrá myšlenka, ale **v realitě nefunguje**.
@@ -70,11 +70,11 @@ Začíná ústup svobody a překrucování pravdy (např. že Kuliš se spolčil
 Boxer bez přestání pracuje, ale jednoho dne se předře. Důchodu se nedočká, je odvezen na jatka (o čemž je lháno -- prý jede do nemocnice). Prasata se naučí chodit po dvou a mezi ostatními zvířaty prochází s bičem. Začínají spolupracovat s lidmi a přejmenují farmu zpět na Panskou. S lidmi popíjí a hrají karty. Ostatní zvířata sledují, jak se v domě hádají prasata s lidmi a uvědomují si, že je od sebe nedokáží rozeznat. Prasata totiž začínají vypadat jako lidé.
 
 ### Ukázka
-_"Soudruzi, jistě jste již slyšeli, jaký jsem měl včera podivný sen. Ale nejprve musím říci něco jiného. Již s vámi, soudruzi, dlouho nepobudu. Než však zemřu, musím vám předat, co jsem poznal. Mám za sebou dlouhý život, a když jsem lehával o samotě v chlévě, zbývalo mi hodně času k přemýšlení. Myslím, že mohu klidně prohlásit, že rozumím podstatě života na této zemi stejně dobře jako kterékoliv jiné zvíře. A o tom chci mluvit._
+_„Soudruzi, jistě jste již slyšeli, jaký jsem měl včera podivný sen. Ale nejprve musím říci něco jiného. Již s vámi, soudruzi, dlouho nepobudu. Než však zemřu, musím vám předat, co jsem poznal. Mám za sebou dlouhý život, a když jsem lehával o samotě v chlévě, zbývalo mi hodně času k přemýšlení. Myslím, že mohu klidně prohlásit, že rozumím podstatě života na této zemi stejně dobře jako kterékoliv jiné zvíře. A o tom chci mluvit._
 
 _V čem je, soudruzi, podstata života? Jen se podívejte. Naše životy jsou bídné, upracované, krátké. Narodíme se, dostaneme nažrat jen tolik, abychom nechcípli, ti, kteří mohou, musí pracovat až do vyčerpání, a jakmile nám dojdou síly a už nejsme užiteční, je náš život krutě ukončen. Žádné zvíře v Anglii nezná štěstí a odpočinek. Žádné zvíře v Anglii není svobodné. Zvířecí život je bída a otroctví. Taková je pravda, soudruzi._
 
-_Ale je takový řád přírody? Je snad anglická půda tak chudá, že nezaručí slušný život těm, kdo ji obývají? Ne, soudruzi, tisíckrát ne! Půda Anglie je úrodná, podnebí je dobré, tady by našlo dost potravy mnohem víc zvířat, než tu žije dnes. Jenom naše farma by uživila tucet koní, dvacet krav, stovky ovcí! A všichni by mohli žít pohodlně a důstojně, jak se nám ani nezdá. Proč tedy žijeme v tak bídných podmínkách? Protože skoro všechen výtěžek naší práce nám kradou lidé! A tady, soudruzi, je odpověď na všechny naše problémy. Ta odpověď spočívá v jediném slovu -- Člověk. Člověk je náš jediný opravdový nepřítel. Odstraňme Člověka a hlavní příčina hladu a přepracování zmizí!"_
+_Ale je takový řád přírody? Je snad anglická půda tak chudá, že nezaručí slušný život těm, kdo ji obývají? Ne, soudruzi, tisíckrát ne! Půda Anglie je úrodná, podnebí je dobré, tady by našlo dost potravy mnohem víc zvířat, než tu žije dnes. Jenom naše farma by uživila tucet koní, dvacet krav, stovky ovcí! A všichni by mohli žít pohodlně a důstojně, jak se nám ani nezdá. Proč tedy žijeme v tak bídných podmínkách? Protože skoro všechen výtěžek naší práce nám kradou lidé! A tady, soudruzi, je odpověď na všechny naše problémy. Ta odpověď spočívá v jediném slovu -- Člověk. Člověk je náš jediný opravdový nepřítel. Odstraňme Člověka a hlavní příčina hladu a přepracování zmizí!“_
 
 ### Inspirace
 - animovaný stejnojmenný film z roku 1954 od J. Batchelora a J. Halase

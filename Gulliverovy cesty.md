@@ -4,12 +4,11 @@
 
 ### Život
 - anglický spisovatel, satirik, pamfletista, básník a anglikánský kněz
-  - původně **narozen v Irsku (Dublin),** osiřel a byl vychováván strýcem
-- tajemníkem anglického státníka v Londýně
-  - na jeho doporučení se dal vysvětit na kněze
+- původně **narozen v Irsku (Dublin),** osiřel a byl vychováván strýcem
 - znám **psaním pamfletů** (které ho často dostávaly do potíží)
-- 10 let farář v Dublinu, do Londýna se však pravidelně vracel
-- 30 let děkanem katedrály sv. Patrika v Dublinu, kde prožil zbytek svého života
+- tajemníkem anglického státníka v Londýně, na jehož doporučení se **dal vysvětit na kněze**
+  - 10 let farář v Dublinu, do Londýna se však pravidelně vracel
+  - 30 let děkanem katedrály sv. Patrika v Dublinu, kde prožil zbytek svého života
 
 ### Dílo
 - **Óda na athénskou společnost** -- báseň (prvotina)
@@ -53,7 +52,7 @@ V prvním díle se Gulliver vydává na cestu jako lodní lékař. Jeho loď vš
 
 Ve druhém díle se Gulliver dostává do Brobdingnagů, země obrů. V trávě ho najde sedlák, který ho odnese domů za svým pánem. Rodina pána je překvapená, co to donesl za tvora a mají z něj legraci. Malá dcera, které Guliver začne říkat Glumdalklič (chůva) se o něj stará nejlépe. Pojmenuje ho Grildrig (zakrslík). Sedlákův soused mu doporučí, aby ho ukazoval ostatním lidem za peníze. Sedlák tak skutečně udělá, ale jeho dcera je zklamaná (otec jí totiž slíbil, že bude Gulliver jenom její). Vyrobila pro něj malý domeček a vydali se Gullivera ukazovat do okolních vesnic. Obyvatelům se Gulliver velmi líbil a sedlák se s ním později vydává až do hlavního města, kde jej královna koupí. Na Gulliverovo přání dcera zůstane u dvoru a stará se o něj. Gulliver zažívá mnoho dobrodružství (unesení opicí, boj s vosami, řízení lodi) a žije zde 2 roky. Často rozpráví s králem, který je velice moudrý a bystrý, ale je vidět, že jeho zemí pohrdá a i přes Gulliverovo snažení jeho názor vyvrátit nedokáže. Jednoho dne se král a královna vydávají k hranicím u pobřeží. Gulliver se chce jít k pobřeží podívat, královna ho tam tedy pustí se svým sluhou. Sluha jde však hledat do skal vajíčka a Gulliverův domeček (s Gulliverem uvnitř) mezitím unese orel, který ho při šarvátce s dalšími orly pouští z výšky do vody. Později ho zachrání loď a Gulliver se dostává domů.
 
-Ve třetím díle se Gulliver dostává do Laputy, Balnibarbi, Luggnaggu, Glubbdubdribu a Japonska. Vedoucí výpravy Gulliverovy svěří loď, aby s ní několik měsíců v jeho jméně obchodoval, ale při plavbě je napadají piráti a Gullivera vypouštějí na moře ve člunu se zásobami na 4 dny, Dostává se na opuštěný ostrov. Druhý den spatří létající ostrov Laputa a jeho obyvatelé ho vezmou s sebou. Gulliver se naučí jejich řeč a lidé u dvora mu řeknou, jak je možné, že se ostrov pohybuje ve vzduchu (yeah b****, magnets!). Gulliver tu nějaký čas pobývá a poté je dopraven do Balnibarbi, kde zhlédne velkou akademii Lagadskou. Gulliver chce jet zpět do Anglie a jede tedy do Glubbdubdribu. V této zemi jsou čarodějové, kteří mohou přivolat ze záhrobí různé lidi, Gulliver se tu setká s Homérem, Aristotelem a s nesčetným množstvím dalších historických osobností. Poté pokračuje v cestě a dostává se do Luggnaggu. Odtud odplouvá do Japonska, pak do Amsterdamu a do Anglie.
+Ve třetím díle se Gulliver dostává do Laputy, Balnibarbi, Luggnaggu, Glubbdubdribu a Japonska. Vedoucí výpravy Gulliverovy svěří loď, aby s ní několik měsíců v jeho jméně obchodoval, ale při plavbě je napadají piráti a Gullivera vypouštějí na moře ve člunu se zásobami na 4 dny, Dostává se na opuštěný ostrov. Druhý den spatří létající ostrov Laputa a jeho obyvatelé ho vezmou s sebou. Gulliver se naučí jejich řeč a lidé u dvora mu řeknou, jak je možné, že se ostrov pohybuje ve vzduchu. Gulliver tu nějaký čas pobývá a poté je dopraven do Balnibarbi, kde zhlédne velkou akademii Lagadskou. Gulliver chce jet zpět do Anglie a jede tedy do Glubbdubdribu. V této zemi jsou čarodějové, kteří mohou přivolat ze záhrobí různé lidi, Gulliver se tu setká s Homérem, Aristotelem a s nesčetným množstvím dalších historických osobností. Poté pokračuje v cestě a dostává se do Luggnaggu. Odtud odplouvá do Japonska, pak do Amsterdamu a do Anglie.
 
 Ve čtvrtém díle se dostává do země Hvajninimů. Na lodi se jeho mužstvo vzbouří a vysadí ho na ostrově. Gulliver tam potká dva koně, kteří si spolu povídají a velice se diví, co je Gulliver zač. Gullivera zajmou a naučí ho svou řeč. Nazývají ho Jahu, protože na ostrově žijí Jahuové -- stvoření velmi podobná člověku, avšak hloupá, škaredá a Hvajninimové je používají jen jako otroky. Hvajninimové neznaní nic jako lež nebo zlomyslnost, a tak se velice diví, když jim Gulliver vypráví o své zemi. Nakonec se rozhodnou, že Gulliver musí jejich ostrov opustit, vyrobí si tedy kánoi a odplouvá na další opuštěný ostrov. Zajmou ho ale lidé a Gulliver se, i když nerad, dostává zpět domů. Lidi už nemá moc rád, hlavně kvůli tomu, že lžou a jsou zlomyslní. Gulliver byl totiž u Hvajninimů tři roky, a tak si zvykl na jejich pravdomluvnost.
 

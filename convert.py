@@ -10,7 +10,7 @@ for file_name in glob("*.md"):
 
     # create the pandoc command
     command = 'pandoc "%s" -o "%s" -V %s' % (file_name,
-                                             "Export/%s.pdf" % file_name[:-3],
+                                             "pdf_output/%s.pdf" % file_name[:-3],
                                              "geometry:margin=1.5cm")
 
     # execute the command

@@ -56,17 +56,17 @@ Hugo zde Kalabise nenajde, místo toho se rozvine sled absurdních situací. Vš
 Když Hugo přijde domů, je natolik změněn, že nepoznává ani rodiče, ani sám sebe.
 
 ### Ukázka
-_TAJEMNÍK Zrovna jsem chtěl převést řeč na techniku –_
+_TAJEMNÍK Zrovna jsem chtěl převést řeč na techniku --_
 
-_PLZÁK Technika – tomu říkám slovo do pranice! Tvrdím totiž, že žijeme v technickém století: magnet – telefon – magnet – o tom se nesnilo ani Vernerovi!_
+_PLZÁK Technika -- tomu říkám slovo do pranice! Tvrdím totiž, že žijeme v technickém století: magnet -- telefon -- magnet -- o tom se nesnilo ani Vernerovi!_
 
-_TAJEMNÍK Četl jsem nedávno Dvacet tisíc mil pod mořem –_
+_TAJEMNÍK Četl jsem nedávno Dvacet tisíc mil pod mořem --_
 
 _PLZÁK A my dokážeme brzo číst ještě hlouběji pod mořem!_
 
-_TAJEMNÍK O objevech kapitána Nema –_
+_TAJEMNÍK O objevech kapitána Nema --_
 
-_PLZÁK Nemá! Ani potuchy nemá Verner o objevech našich kapitánů vědy! Technika by se měla stát organickou součástí života každého z nás –_
+_PLZÁK Nemá! Ani potuchy nemá Verner o objevech našich kapitánů vědy! Technika by se měla stát organickou součástí života každého z nás --_
 
 ### Inspirace
 - podpora demokracie a svobody; Jiří Kolář

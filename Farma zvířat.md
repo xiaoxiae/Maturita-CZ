@@ -23,7 +23,7 @@
 ## Rozbor
 - dílo tvořeno za 2. sv. války
 - v době vydání nebylo příliš populární -- popularita přišla později
-- oceňováno za **výstižnost** poměrů vládnoucích v Rusku v tu dobu
+- oceňováno za **výstižnost poměrů vládnoucích v soudobém Rusku**
 
 ### Obecné informace
 - literární druh: **próza**
@@ -31,10 +31,8 @@
   - psáno **formou bajky**, kratší rozsah  
 - kompozice: **chronologická**, členěno do **10 kapitol**
 - časoprostor: **statek v Anglii**, čas **neurčen**
-- téma: **rozklad socialistických idejí** (lidé dělají vše pro svůj prospěch)
-- námět: překonání strachu, **manipulace** s lidmi, **kritika diktátorského režimu a totality**
+- téma: **rozklad socialistických idejí**
 - motivy: **korupce, dystopie,** komunismus, morálka, víra (rituály)
-- hlavní myšlenka: Komunismus se **na první pohled** může zdát jako dobrá myšlenka, ale **v realitě nefunguje**.
 - inspirace: **známost s ruským novinářem**, díky němu poznává poměry v totalitním Rusku
 
 ### Jazyk
@@ -82,54 +80,18 @@ _Ale je takový řád přírody? Je snad anglická půda tak chudá, že nezaru�
 
 ## Literární kontext
 
-### Existencialismus
--	nejvíce se rozšířil po druhé světové válce ve Francii
--	svět je vnímán subjektivně -> očima jedince izolovaného od společnosti
--	nevyhnutelná smrt (jediná jistota, smysl svého jednání) -- pocity úzkosti
--	předchůdce byl Franz Kafka
--	**Albert Camus** (Francie) -- Cizinec (román)
--	**Jean-paul Sartre** (Francie) -- Nevolnost/Hnus (filozofický román), Zeď (soubor pěti povídek)
--	**Boris Vian** (Francie) -- Naplivu na vaše hroby (kontroverzní protirasistický pamflet)
--	**Nikos Nazantzakisn** (Řecko) -- Řek Zorbas (autobiografický román)
-
-### Neorealismus
--	rozvíjí se v italské filmové a literární tvorbě po pádu fašismu 40. -- 50. léta
--	zachycení závažných sociálních problémů (nevzdělanost, prostituce) vesnických i měšťanských vrstev
--	neorealismus není nic specifického, ale jen nová metoda zobrazování skutečnosti a nový postoj k ní a nové způsoby sdělování
--	**Federico Fellini** (Itálie) -- Dělat film (teoretická kniha), Darmošlapové (film)
--	**Alberto Moravia** (Itálie) -- Horalka, Římanka (romány)
-
-### Rozhněvaní mladí muži
--	volné seskupení generačně spřízněných autorů v anglické literatuře během 50. let 20. století
--	vymyšlený pojem novinářů, jak označit tyto autory, kteří reagují na soudobou společnost
--	královská rodina, společnost, tradice, konzumní společnost
--	**John Osborne** (Anglie) -- Ohlédni se v hněvu (drama)
--	**John Wain** (Anglie) -- Pospíchej dolů (proletářský román)
--	**John Brain** (Anglie) -- Místo nahoře, Život nahoře (romány)
--	**Kingsley Amis** (Anglie) -- Šťastný Jim (román), Jackeův problém (román)
-
-### Postmoderna
--	postmoderní román -- Kombinuje postupy tradičních „pokleslých“ žánrů detektivky a thrilleru s postupy náboženského traktátu, filozofického pojednání nebo vědecké studie
--	**Umberto Eco** (Itálie) -- Jméno růže (román)
-
-### Magický realismus
--	tendence propojovat realistický popis prostředí s mýtickými a nadpřirozenými prvky (popisy snů, halucinací)
--	inspirace mytologií a ezoterikou
--	**Paulo Coelho** (Brazílie) -- Alchymista (román)
--	**Gabriel Garcia Marquéz** (Kolumbie) -- Sto roků samoty (román)
-
 ### Fantasy a sci-fi
 -	literární žánr, který vznikal ve 30. letech 20. století
 -	děj se odehrává ve fiktivních civilizacích a je zde kombinace mytologické, fantastické a magické prvky, většinou řeší vliv moci na jedince
--	sci-fi -- žánr fantastické literatury tématicky čerpající z poznatků moderní vědy a techniky
+-	sci-fi -- žánr fantastické literatury tematicky čerpající z poznatků moderní vědy a techniky
 -	**William Golding** (Anglie) -- Pán much (román)
 -	**John Ronald Reuel Tolkien** (Anglie) -- Hobit aneb cesta tam a zase zpátky, Pán prstenů (romány)
 -	**Ray Bradbury** (USA) -- 451 stupňů Fahrenheita (román)
 
-### Beat generetion
--	literární skupina formující se během 50. let v USA -- radikálně odmítají hodnotový systém americké konzumní společnosti
--	vybírají si především taburizovaná témata (alkoholismus, drogová závislost, homosexualita…)
--	píší technikou proudu vědomí a volným veršem
--	**Jack Kerouac** (USA) -- Na cestě (romány)
--	**Charles Bukowski** (USA) -- Zápisky starého prasáka (sbírka povídek)
--	**William Seward Burroughs** (USA) -- Feťák (autobiografický román), Teplouš (román)
+### Rozhněvaní mladí muži
+-	volné seskupení generačně spřízněných autorů v anglické literatuře během 50. let 20. století
+-	vymyšlený pojem novinářů, jak označit tyto autory, kteří **kritizují soudobou konzumní společnost**
+-	**John Osborne** (Anglie) -- Ohlédni se v hněvu (drama)
+-	**John Wain** (Anglie) -- Pospíchej dolů (proletářský román)
+-	**John Brain** (Anglie) -- Místo nahoře, Život nahoře (romány)
+-	**Kingsley Amis** (Anglie) -- Šťastný Jim (román), Jackeův problém (román)

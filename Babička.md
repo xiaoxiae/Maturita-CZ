@@ -24,14 +24,14 @@
 - literární druh: **próza**
 - literární žánr: **román**  
 - kompozice: **chronologická,** děleno do **9 kapitol**
-- časoprostor: **Staré bělidlo** (Ratibořické údolí -- dříve zde bydlela), **Čechy, 19. století**
+- časoprostor: **Staré bělidlo** (Ratibořice), **Čechy, 19. století**
 - téma: popis milující babičky, která je obklopena dobrými lidmi; snaha **pomáhat**
 - motivy: zvyky, tradice, stáří, moudrost
-- inspirace: její babička, kterou měla velice ráda
+- inspirace: její dětství
 
 ### Jazyk
 - **spisovná čeština**
-- popisný realismus s prvky idealizace
+- popisný realismus s **prvky idealizace** (kněžna)
 - užívá velké množství **přívlastků a přirovnání**
 - občas také **metafory** (pod strom nastlané měkounké podušky)
 - užívá i odborné výrazy (lilium martagon)
@@ -41,9 +41,10 @@
 
 ### Postavy
 - **babička** -- moudrá, svá, vlastenecká, konzervativní; symbol starých zvyků
-- **Barunka** (Božena Němcová) -- vnučka Magdalény Novotné, nejstarší a nejrozumnější z vnoučat
+- **Barunka** (Božena Němcová) -- nejstarší a nejrozumnější z vnoučat
 - **Adélka, Vilém, Jan** -- sourozenci Barunky
 - **kněžna** -- dobrosrdečná, přejícná
+- **Hortensie** -- chráněnka kněžny
 - **Viktorka** -- bláznivá, divoká
 
 ### Děj
@@ -62,7 +63,6 @@ _Třetí den ráno, když se pohřební průvod, záležejíc z velikého množs
 
 ### Inspirace
 - zfilmována 1971, Babičku hrála Terezie Brzková
-- ilustrace – Adolf Kašpar
 
 ## Literární kontext
 - v Čechách vrcholí národní obrození -- zaměření na národní snahy

@@ -26,11 +26,11 @@
 
 ### Obecné informace
 - literární druh: **poezie**
-- literární žánr: **lyricko-epická báseň (byronská povídka)**
+- literární žánr: **lyricko-epická báseň (byronská povídka)**  
 - kompozice: **6 částí**
   - 4 zpěvy, 2 intermezza
   - na úvod dedikační báseň Čechové jsou národ věrný
-- časoprostor: **Máchův kraj** (okolí hradu Bezděz), během 4 dnů (a poté po 7 letech)
+- časoprostor: **Máchův rodný kraj** (okolí hradu Bezděz), během 4 dnů (a poté po 7 letech)
 - téma: **zobrazení májové přírody a lidského neštěstí**
 - motivy: láska; žárlivost; spravedlnost; nadpřirozeno; příroda
 - inspirace: skutečný příběh českých vesnic, Máchův rodný kraj

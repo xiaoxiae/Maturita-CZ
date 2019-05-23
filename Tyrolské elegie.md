@@ -5,14 +5,14 @@
 ### Život
 - vlastní jméno Karel Havlíček, podepisoval se jako **“Borovský Havel”**
 - chtěl ovlivnit společnost (kněžský seminář, ale byl vyloučen)
-  - vystupoval proti církvi, policii a absolutistické státní moci  
+  - vystupoval proti církvi, policii a absolutistické státní moci
 - **zakladatel moderní české žurnalistiky**
-  - založil Národní noviny se satirickou přílohou Šotek
+  - **založil Národní noviny** se satirickou přílohou **Šotek**
   - později kutnohorský časopis Slovan
-  - za žurnalistickou činnost vícekrát odsouzen -- 1851 deportován do Brixenu  
+  - za žurnalistickou činnost vícekrát odsouzen -- 1851 deportován do Brixenu
 - překlady (polština, němčina, francouzština)
 - zobrazení absurdity -- lynčování novinářů = pomsta národu
-- pobyt v Rusku -- zklamání –> kritický k myšlence slovanské vzájemnosti
+- pobyt v Rusku -- zklamání --> kritický k myšlence slovanské vzájemnosti
   - v Rusku shledal ještě větší útlak než v Čechách
 
 ### Dílo
@@ -26,7 +26,7 @@
 
 ### Obecné informace
 - literární druh: **poezie**
-- literární žánr: **satirická báseň, elegie**
+- literární žánr: **satirická báseň, elegie**  
 - kompozice: **9 částí** označených římskými číslicemi
 - časoprostor: **Cesta z Čech do Tyrolska, 1851**
 - téma: **Vystoupení proti absolutismu a násilí** ve formě **autobiografie deportace do Brixenu.**
@@ -74,7 +74,7 @@ _z vozu vyskočit.“_
 - v Čechách vrcholí národní obrození -- zaměření na národní snahy
 - autoři se nechávají ovlivňovat lidovou slovesností (sběratelská činnosti)
 
-### Božena Němcová (1620--1684)
+### Božena Němcová
 - zakladatelka **novodobé české prózy**
 - realistické tendence -- např. motivy sociální nerovnosti
 - vzpomínková próza **Babička**

@@ -43,7 +43,7 @@
 - **er-forma**
 - **neobvyklý větný pořádek**
 - **krátké věty, řečnické otázky -- napětí**
-- **monology** postav  
+- **monology** postav
 - **metafory** (milenka sebevrahů -- propast)
 - **personifikace** (řeka vystoupí z břehů)
 - **symbolika**

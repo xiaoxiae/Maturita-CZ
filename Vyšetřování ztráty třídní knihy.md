@@ -17,16 +17,14 @@
 ## Jára Cimrman (?--?)
 - český génius, dramatik, fyzik, básník, vynálezce
 - korespondence s **Albertem Einsteinem**
-- pod podlahou nalezeny všechny rukopisy ohledně školní reformy
 - učitel tance a zpěvu -- položil **základy pop music**
-- kopání závodu na mamutí sodovkárnu holýma rukama
 - teorie **externismus** -- věc je všude, kde není
 
 ### Cimrmanova šesterka
 - **futurismus** -- učil základy telefonování před tím, než telefon měli
 - **separace průtokových poznatků** -- jedním tam, druhým ven; přesně určil, jakou látku si mají studenti pamatovat a jakou ne
 - **trestání učitele učitelem** -- žáci mají učitele rádi, proto budou smutní, když se mu něco špatného stane
-- **názorné a úlekové fixace učiva** -- vylekání při probídání důležité látky jako šlehnutí bičem / sundání paruky; šahání na měkké/tvrdé
+- **názorné a úlekové fixace učiva** -- vylekání při probírání důležité látky jako šlehnutí bičem / sundání paruky; šahání na měkké/tvrdé
 - **mimoverbální komunikace** -- mimika při psaní písemných prací
 - **oživlé dřevo** -- ovládání studenta jako loutky
 
@@ -37,7 +35,7 @@
 - literární žánr: **komedie**  
 - kompozice: děleno na **seminář** a **jednoaktovou hru**
 - časoprostor: **Československo 60. let**
-- téma: podopření Českého vlastenectví pod komunistickou nadvládou
+- téma: podpoření Českého vlastenectví pod komunistickou nadvládou
 - motivy: komedie, vlastenectví, hierarchie
 - inspirace:
 

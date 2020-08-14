@@ -28,6 +28,7 @@
 - Motivy: **Kolize boje za ideály a realitou**
 - Kompozice: **27 bezprostředně na sebe navazujících kapitol**
 - Po Bibli se jedná o **druhou nejpřekládanější knihu** na světě
+- Parodie na středověké rytířské eposy (časté reference na rytíře ze skutečných eposů)
 
 ### Jazyk
 - **Spisovný a jednoduchý, s dobovými výrazy**
@@ -70,6 +71,8 @@ _„Ó pane,“ zvolal Don Antonio, „odpusť vám Bůh tu křivdu, že chcete 
 - Ve Španělsku v té době vrcholila hospodářská krize, ale umění a kultura dosahovala svého vrcholu 
 
 ### Soudobí autoři
+- **William Shakespear**
+  - Viz soubor _Othello.md_
 - **Lope de Vega**
   - **Ovčí pramen** -- Španělská komedie (tragikomedie) o třech dějstvích
   - Kolektivita spravedlivých vesničanů vs. světský soud hledající vraha tyrana

@@ -4,12 +4,12 @@
 
 ### Život
 - Pocházel z chudé rodiny
-- Bojoval jako voják ve válce proti Osmanské říši (Turecku)
+- **Bojoval jako voják ve válce proti Osmanské říši (Turecku) (!)**
 - Přišel o ruku, ale bojoval dál a vysloužil si doporučující dopisy
-- Během návratu do Španělska byl zajat piráty, kteří jej kvůli dopisům považovali za šlechtice a prodali jej do otroctví v Alžírsku
+- Během návratu do Španělska byl **zajat piráty**, kteří jej kvůli dopisům považovali za šlechtice a prodali jej do **otroctví v Alžírsku**
 - Několikrát se neúspěšně pokusil o útěk, nakonec jej náhodou vykoupil mnich
 - Obchodník španělského loďstva, účetní
-- Několikrát ve vězení, často kvůli sledu nešťastných náhod
+- **Několikrát ve vězení, často kvůli sledu nešťastných náhod**
 - I po vydání Dona Quijota (senzace) žil stále v bídě a měl opletačky se zákonem
 - 1614 -- vydán falzifikát pokračování Dona Quijota, --> Cervantes přimět vydat vlastní pokračování
 
@@ -37,16 +37,16 @@
 - **Použitý jazyk je snadno srozumitelný, protože kniha byla určena pro široké vrstvy obyvatelstva a ne pouze pro vzdělance**
 
 ### Postavy
-- **Alonso Quijana** -- Skutečné jméno Dona Quijota de la Manchy; takovou přezdívku si vymyslel, aby se více podobala rytířským jménům, které znal z rytířských eposů; "de la Mancha" znamená z Manchy -- název kraje, ze kterého pocházel; astenický typ; chudý zeman spravující malé území; vášnivě četl rytířské eposy a toužil dobrodružství v nich popsaná také zažít; nakonec se zbláznil a na výpravy za dobrodružstvím vyjel; psychologicky je to cholerik s rychlými změnami nálad; vše podnikal aby naplnil jisté ideály, které o rytířském životě měl
-- **Sancho Panza** -- Prostý sedlák pocházející ze vsi Dona Quijota; pyknický typ; srdečný, upřímný, dobrácký a rozumný, ale také snadno ovlivnitelný Donem Quijotem; snaží se často Dona Quijota vyvést z jeho mylného vnímání reality a v případě neúspěchů uklidnit situaci; v případě úspěšného vývoje střetnutí se snaží obohatit na poražených na základě rytířských zvyklostí, které se dověděl od Dona Quijota; Dona Quijota doprovází spíše z důvodu peněžitého zisku, ale nechce jej nechat odejít samotného ani v případě nejisté odměny; peníze chce kvůli zabezpečení své rodiny
-- **Farář a Lazebník** -- Osoby snažící se Dona Quijota dostihnout, přivést zpět do vsi a k rozumu
-- **Bakalář Samson Carrasco** -- Učenec, který stíhá Dona Quijota při jeho poslední výpravě a snaží se jej jako (falešný) rytíř porazit, aby jeho rozkaz poraženému vrátit se do vsi dodržel a měl ho za daný osudem
-- **Neteř a hospodyně Dona Quijota** -- Postavy žijící s Donem Quijotem v jeho vsi a žádající Faráře s Lazebníkem o přivedení Dona Quijota k rozumu
-- **Kníže a Kněžna** -- Manželé, které potkal Don Quijote při své poslední výpravě; věděli, že je to blázen a drželi si jej u sebe pro své pobavení, přičemž jej udržovali v jeho přesvědčení, že je předurčen k rytířskému osudu
-- **Don Antonio** -- Podobně jako Kníže s Kněžnou bohatá osoba sídlící v Barceloně, která si Dona Quijota a Sancha Panzu vydržovala nějaký čas pro pobavení
-- **Rosinanta** -- Kůň Dona Quijota -- obyčejná vyhublá herka, kterou si však Don Quijote představoval jako vznešeného oře
-- **Šedouš** -- Osel Sancha Panzy a jeho nejmilejší majetek
-- _Dulciena de Toboso_ -- Mladá a pěkná vesnická dívka pocházející z vesnice Toboso nacházející se v kraji Dona Quijota s neznámým skutečným jménem; v knize nevystupuje, avšak Don Quijote ji často zmiňuje jako dámu svých snů, pro kterou koná všechna svá dobrodružství; sama však o vztahu Dona Quijota k ní neví
+- **Alonso Quijana** -- Skutečné jméno Dona Quijota de la Manchy; takovou přezdívku si vymyslel, aby se více podobala rytířským jménům, které znal z rytířských eposů; "de la Mancha" znamená z Manchy -- název kraje, ze kterého pocházel; astenický typ; chudý zeman spravující malé území; **vášnivě četl rytířské eposy a toužil dobrodružství v nich popsaná také zažít**; **nakonec se zbláznil a na výpravy za dobrodružstvím vyjel**; psychologicky je to cholerik s rychlými změnami nálad; **vše podnikal aby naplnil jisté ideály, které o rytířském životě měl**
+- **Sancho Panza** -- **Prostý sedlák** pocházející ze vsi Dona Quijota; pyknický typ; **srdečný, upřímný, dobrácký a rozumný**, ale také **snadno ovlivnitelný** Donem Quijotem; snaží se často Dona Quijota vyvést z jeho mylného vnímání reality a v případě neúspěchů uklidnit situaci; v případě úspěšného vývoje střetnutí se snaží obohatit na poražených na základě rytířských zvyklostí, které se dověděl od Dona Quijota; **Dona Quijota doprovází spíše z důvodu peněžitého zisku, ale nechce jej nechat odejít samotného ani v případě nejisté odměny**; peníze chce kvůli zabezpečení své rodiny
+- **Farář a Lazebník** -- Osoby snažící se Dona Quijota **dostihnout, přivést zpět do vsi a k rozumu**
+- **Bakalář Samson Carrasco** -- Učenec, který **stíhá Dona Quijota při jeho poslední výpravě** a snaží se jej jako (falešný) rytíř **porazit, aby jeho rozkaz poraženému vrátit se do vsi** dodržel a měl ho za daný osudem
+- **Neteř a hospodyně Dona Quijota** -- Postavy žijící s Donem Quijotem v jeho vsi a **žádající Faráře s Lazebníkem o přivedení Dona Quijota k rozumu**
+- **Kníže a Kněžna** -- Manželé, které potkal Don Quijote při své poslední výpravě; **věděli, že je to blázen a drželi si jej u sebe pro své pobavení**, přičemž jej udržovali v jeho přesvědčení, že je předurčen k rytířskému osudu
+- **Don Antonio** -- Podobně jako Kníže s Kněžnou bohatá osoba sídlící v Barceloně, která si **Dona Quijota a Sancha Panzu vydržovala nějaký čas pro pobavení**
+- **Rosinanta** -- **Kůň Dona Quijota** -- obyčejná vyhublá herka, kterou si však Don Quijote představoval jako vznešeného oře
+- **Šedouš** -- **Osel Sancha Panzy** a jeho nejmilejší majetek
+- **(Dulciena de Toboso)** -- Mladá a pěkná vesnická **dívka pocházející z vesnice Toboso** nacházející se v kraji Dona Quijota s neznámým skutečným jménem; **v knize nevystupuje**, avšak **Don Quijote ji často zmiňuje jako dámu svých snů, pro kterou koná všechna svá dobrodružství**; sama však o vztahu Dona Quijota k ní neví
 
 ### Děj
 Don Quijote je nepříliš bohatý šlechtic spravující malé území na náhorní plošině La Mancha nacházející se ve Španělském vnitrozemí. Jeho největší zálibou je čtení rytířských eposů a svět popisovaný v nich postupně přijme za skutečnost. Převládne v něm touha stát se také takovým rytířem a rozhodne se oprášit starou zbroj, která mu zbyla po předcích a vyrazit na dobrodružnou výpravu.

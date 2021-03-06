@@ -65,13 +65,13 @@ Vypravěč si najme sluhu, aniž by tušil, do čeho se dostává. Vše začín�
 
 Později jsou vypravěč a jeho sluha pozváni k dědečkovi, aby zde strávili společně několik týdnů. Mimo ně se pobytu účastní i slečna Barbora, ke které vypravěč cítí náklonnost, doktor Vlach, vzdělaný muž a dědečkův dobrý kamarád a bez pozvání přijíždí i teta Kateřina s Miloušem.
 
-Několik dní po příjezdu se most, který chatu spojuje s okolím světem, díky bouřce zřítí. Bouřka rovněž způsobí výpadek elektřiny. Tyto události drasticky mění situaci účastníků pobytu a nechávají vzniknout groteskním situacím: vypravěč vyhlásí Miloušovi válku (oba chtějí Kateřinu).
+Několik dní po příjezdu se most, který chatu spojuje s okolím světem, kvůli bouřce zřítí. Bouřka rovněž způsobí výpadek elektřiny. Tyto události drasticky mění situaci účastníků pobytu a nechávají vzniknout groteskním situacím: vypravěč vyhlásí Miloušovi válku (oba chtějí slečnu Barboru).
 
-Když dochází zásoby, doktor Vlach navrhne, že se můžou vydat do jeho srubu, který se od dědečkova domu nachází poměrně nedaleko (a jsou v něm zásoby jídla) a poté jít do města pro pana Novotného, který slíbil, že bude most stavět. Cesta začíná dobře, ale naskytnou se komplikace, které skupinu zbrzdí. Když dorazí na druhou stranu řeky na místo, kde měl být rozbořený most, vidí most zbrusu nový -- jejich dobrodružství je tedy zbytečné.
+Když dochází zásoby, doktor Vlach navrhne, že se můžou vydat do jeho srubu, který se od dědečkova domu nachází poměrně nedaleko (a jsou v něm zásoby jídla) a poté jít do města pro pana Novotného, který slíbil, že bude most stavět. Cesta začíná dobře, ale naskytnou se komplikace, které skupinu zbrzdí, především zranění dědečka. Když po pár dnech dorazí na druhou stranu řeky, na místo, kde měl být rozbořený most, vidí most zbrusu nový -- jejich dobrodružství je tedy zbytečné.
 
 Po návratu si teta umíní, že bude nemocného dědečka léčit. Dědeček je však z jejího podlézání a hysterických záchvatů tak znechucen, že předstírá zbláznění, aby tetu Kateřinu dostal od sebe. Poté ve svém předstíraném stavu zbláznění nafinguje sepsaní závěti, ve které odkáže celý svůj majetek dobročinným organizacím. Jakmile se toto Tetička Kateřina dozví, tak hrozí soudem a odjíždí, čímž ukáže svou bezcharakternost a touhu po penězích.
 
-Příběh končí tím, že se všichni vracejí k životu, na který jsou zvyklí. Vypravěč pozve slečnu Barboru na schůzku, Saturnin zůstává ve službách dědečka a spolu zakládají "Kancelář pro uvádění románových příběhů na pravou míru". Saturnin rovněž informuje vypravěče, že loď, na které bydlí je jeho a že bude rád, když na ni vypravěč zůstane. Aby příběh končil svatbou, tak se tetička Kateřina bohatě vdává.
+Příběh končí tím, že se všichni vracejí k životu, na který jsou zvyklí. Vypravěč pozve slečnu Barboru na schůzku, Saturnin zůstává ve službách dědečka a spolu zakládají "Kancelář pro uvádění románových příběhů na pravou míru". Saturnin rovněž informuje vypravěče, že loď, na které bydlí je jeho a že bude rád, když na ni vypravěč zůstane. Aby příběh končil svatbou, tak se tetička Kateřina znovu bohatě vdává.
 
 ### Ukázka
 _Když jsme obešli prameny řeky a dosáhli místa, odkud měl začít sestup, vylezl dědeček na velikou kupu balvanů a pronesl k nám žertovnou řeč plnou překvapujících odhalení, jako že je nás sedm, že jsme byli okolnostmi donuceni podniknout to, co právě činíme, že už jsme nahoře a že teď půjdeme dolů a že v městečku na nás čeká vydatná večeře. V té chvíli Saturnin zařval, jako kdyby se zbláznil, všichni se lekli, a dědeček se zakoktal. Saturnin později tvrdil, že křičel „Sláva!“, ale nikdo z nás mu to nevěřil. Pokud vím, volá se sláva docela jinak. V tu chvíli jsme však o tom nepřemýšleli, protože nám k tomu dědeček nedopřál času. Provedl na oblém balvanu několik potrhlých pohybů, zamával rukama, jako by chtěl uletět do údolí, a s temným žuchnutím zmizel za balvanem. Zůstali jsme chvíli jako strnulí a teprve dědečkovo sakrování nás vymrštilo na nohy. Oběhli jsme celou tu kupu kamení a nalezli jsme dědečka vklíněného mezi dva balvany a chrlícího ze sebe kletby v nejrůznějších jazycích._
@@ -83,6 +83,7 @@ _Když byl konečně dědeček vyproštěn, posadil se na trávu, odpovídal vzt
 ### Inspirace
 - 1994 -- čtyřdílný televizní seriál
   - později sestříhán do podoby celovečerního filmu
+- divadelní hra **Saturnin**
 
 ## Literární kontext
 - **meziválečná literatura** -- obavy z války

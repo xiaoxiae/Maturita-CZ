@@ -34,10 +34,10 @@
   - Místo: **Praha (Most Legií, Košíře, Slávie), místa pobytu T. A. Edison (New
     York, Menlo Park...)**
   - Čas: **Život T. A. Edisona**
-- Téma: **Podstat a význam T. A. Edisona**
+- Téma: **Podstata a význam T. A. Edisona**
 - Námět / inspirace: **Život T. A. Edisona**
 - Motivy: smutek, stesk, úzkost, odvaha a radost z života i smrti; práce jako
-  hrdinství nebo dobrodružství, věda, vynálezy.
+  hrdinství nebo dobrodružství, věda, vynálezy
 - Kompozice: **chronologická**
 
 ### Jazyk

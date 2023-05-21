@@ -76,17 +76,23 @@ z balkónu pozoruje noční Prahu.
 
 ## Literární kontext
 
-- **Poetismus**
-  - **20. léta 20. století**
-  - V literatuře do 2. světové války
-  - Pouze v Československu
-  - Avantgardní směr
-    - Experimentální, radikální, či neortodoxní přístup k umění, kultuře, či
-      společnosti
-  - **Nahlížení na život tak, aby byl básní**
-  - Oproštění od politiky
-  - Optimistický pohled na svět
-  - **Chybí interpunkce**
-  - Hlavními tématy byly pocity radosti
-  - Filosofie -- navrácení se do stavu, kdy se společnost zajímá o (ne)štěstí
+### Poetismus
+
+- **20. léta 20. století**
+- V literatuře do 2. světové války
+- Pouze v Československu
+- Avantgardní směr
+- Experimentální, radikální, či neortodoxní přístup k umění, kultuře, či
+  společnosti
+- **Nahlížení na život tak, aby byl básní**
+- Oproštění od politiky
+- Optimistický pohled na svět
+- **Chybí interpunkce**
+- Hlavními tématy byly pocity radosti
+- Filosofie -- navrácení se do stavu, kdy se společnost zajímá o (ne)štěstí
     jedince
+
+## Soudobí autoři
+
+- z Česka - K. Čapek, J. Seifert
+- cizinci - H. G. Wells, G. Orwell, J. Wyndham

@@ -26,7 +26,7 @@
 ### Obecné informace
 
 - literární druh: **próza**
-- literární žánr: **dystopický román**  
+- literární žánr: **dystopický román**
 - kompozice: **chronologická**, členěno do 3 hlavních částí
 - časoprostor: **neurčitá doba** (ale pravděpodobně budoucnost), **neurčité místo**
 - téma: absurdita dystopického vývoje státu, kritika konzumní společnosti
@@ -34,14 +34,15 @@
 - inspirace: nadšený čtenář **Arthura C. Clarka**, **H. G. Wellse** a **H. P. Lovecrafta**
 - typy promluv: **pásmo vypravěče, dialog**
 
-
 ### Jazyk
+
 - spisovný
 - místy jazyk poetický, s **množstvím přirovnání a metafor**
 - časté užití gradace a **krátkých vět** (větných ekvivalentů)
 - využití kurzívy pro zdůraznění
 
 ### Postavy
+
 - **Guy Montag** -- ústřední postava děje; ze začátku je součástí systému -- pálí knihy a nepřemýšlí, po setkání s Clarissou se z něj stává jeho odpůrce
 - **Clarissa** -- svobodomyslná dívka odmítající tamní společenský řád
 - **Beatty** -- požárník, nadřízený Guye Montaga; chytrý, přesvědčený o špatnosti knih
@@ -77,6 +78,7 @@ Jakmile Beatty zjistí, že je v kontaktu s Faberem, je Montag donucen jej zavra
 Montag se mezitím dostane ke skupince bývalých profesorů vysokých škol, jež se ukrývají v lese. Ti žijí kočovným životem a knihy si pamatují slovo od slova ve svých hlavách. Guy se k nim rozhodne připojit a sdílet tak s nimi tento život.
 
 ### Ukázka
+
 _Pozoroval s obzvláštní rozkoší, jak jsou předměty pohlcovány, jak věci černají a jak se mění. Krev mu bušila ve spáncích, když svíral v dlaních mosaznou trysku -- toho obrovského hada, který plival na svět jedovatý petrolej -- a jeho ruce byly rukama podivuhodného dirigenta řídícího nesmírnou symfonii žáru a ohně, v níž mizí cáry a zuhelnatělé zbytky dějin. V očích pod helmou se symbolickým číslem 451, nasazenou na lhostejné hlavě, vzplál oranžový žár, když si představil, co bude následovat: stiskl zapalovač a dům se vzepjal ve žravých plamenech, které zbarvily večerní oblohu do červena, do žlutá a do smolné černi. Kráčel obklopen rojem světlušek. Pocítil neodolatelnou touhu strčit do žhnoucí pece pár pěnových bonbonů na klacku, jak se to žertem dělávalo, zatímco poletující, žárem zkroucené knihy umíraly u vchodu a na trávníku. A když se knihy ve víru jisker vznesly vzhůru a letěly pryč, vítr potemněl dýmem spáleniště._
 
 ### Inspirace
@@ -96,6 +98,7 @@ _Pozoroval s obzvláštní rozkoší, jak jsou předměty pohlcovány, jak věci
 - Bradbury byl znepokojen chováním vlády vůči umělcům
 - čtení o zničení Alexandrijské knihovny v něm zanechalo pocity zranitelnosti knih
 - děsilo ho nacistické pálení knih
+- polovina 20. století
 
 ### Fantasy a sci-fi
 
@@ -106,8 +109,32 @@ _Pozoroval s obzvláštní rozkoší, jak jsou předměty pohlcovány, jak věci
 - **John Ronald Reuel Tolkien** (Anglie) -- Hobit aneb cesta tam a zase zpátky, Pán prstenů, Silmarilion (romány)
 - **George Orwell** -- 1984 (podobná tematika)
 
-## Soudobí autoři
+### Soudobí autoři
 
-- z Česka - K. Čapek, M. Ajvaz, J. Seifert
-- cizinci - A. C. Clark., H. G. Wells, I. Asimov, G. Orwell, J. Wyndham, W.
-  Tevis
+#### Česko
+
+- **Seifert**
+- **Ajvaz**
+  - **Druhé město** -- magický realismus v Praze
+- **Zdeněk Svěrák a Ladislav Smoljak**
+  - **Vyšetřování ztráty třídní knihy**
+  - **Dobytí severního pólu**
+
+#### Zahraničí
+
+- **Umberto Eco**
+  - **Jméno růže** -- podobné stylem Šifře mistra Leonarda
+  - Zabýval se semiotikou
+  - Záhady, tajemství, konspirace
+  - Mnohovrstevnatá díla
+- **Chuck Palahniuk**
+  - **Klub rváčů** -- psychologický thriller
+- **Dan Brown**
+  - **Andělé a démoni** -- bomba ve Vatikánu
+  - **Šifra mistra Leonarda** -- hledání svatého grálu
+- **Cormac Mc Carthy**
+  - **Cesta** -- otec a syn cestují apokalyptickým světem a snaží se přežít
+  - **Tahle země není pro starý** -- novodobí western
+- **W. Tevis**
+- **A. C. Clark**
+- **I. Asimov**

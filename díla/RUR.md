@@ -3,6 +3,7 @@
 ## Karel Čapek (1890--1938)
 
 ### Život
+
 - spisovatel, novinář, politik
 - próza, drama, fejetony
 - bratr **Josef** a sestra **Helena** (podle ní i Helena Gloryová -> Helena robotka)
@@ -11,8 +12,10 @@
 - 1938 -- navržen na Nobelovu cenu za literaturu
 - první prózy vydal **společně se starším Josefem** (1916) a poslední román těsně před smrtí 1938
 - patří k **nejčtenějším autorům v Česku**
+- zemřel na zápal plic
 
 ### Dílo
+
 - **Ze života hmyzu** -- komedie, kritika společnosti
 - **Továrna na Absolutno** -- román, jeho první dystopický román
 - **Válka s Mloky** -- alegorie (kritika nacismu)
@@ -22,20 +25,23 @@
 ## Rozbor
 
 ### Obecné informace
+
 - literární druh: **drama**
-- literární žánr: **tragikomedie**  
+- literární žánr: **tragikomedie**
 - kompozice: **chronologická**, odehrává se v budoucnosti, děleno na **3 dějství**
 - časoprostor: na fiktivním ostrově, v továrně R.U.R.
 - téma: **technologický pokrok**, věda, humor
 - inspirace: jméno Heleny podle své sestry; nedůvěra v techniku z 1. sv. války
 
 ### Jazyk
+
 - **er-forma**
 - jednoduché věty
 - prokládáno odbornými pojmy (enzym, bilance...)
 - princip rychlých dialogů, které posouvají děj kupředu
 
 ### Postavy
+
 - **Domin** (z latiny pán) -- ředitel továrny R.U.R.; cílevědomý, podporuje výrobu robotů
 - **Helena** (podle Čapkovy sestry) -- bojuje za práva robotů
 - **Ing. Fabry** (ze slova fabrika) -- hlavní technický ředitel R.U.R.
@@ -45,17 +51,30 @@
 - **Primus, Helena robotka** -- inspirováno Adamem a Evou
 
 ### Děj
-Za Dominem přijede Helena, dcera prezidenta, a chce vidět závod na výrobu robotů. Přijela sem, aby promluvila k robotům, proč si nechají líbit zacházení, jako by byli stroje. Roboti jsou nerozeznatelní od lidí, ale nemají city a lidské funkce. Proto dojde k záměně, kdy si nejprve Helena myslí o asistentce robotce Sulle, že je žena a následně o skutečných lidech je přesvědčena, že jsou roboti a tedy k nim i promlouvá jako k robotům.
 
-Helena v továrně zůstane, vezme si Domina a děj se přesune o deset let později.
-
-Po deseti letech se roboti začínají používat i jako vojáci do válek. Helenu trápí, že nemají vlastní rozum a city, a proto přemluví doktora Galla, aby se pokusil takové roboty vyrobit. Svět začíná být plný robotů, lidem se přestávají rodit děti a roboti se začínají proti lidem bouřit.
-
-Helena už nechce, aby se roboti vyráběli, a tak spálí plány na jejich výrobu. Mezitím vedoucí fabriky už ví o vzbouření a v den, kdy je to přesně deset let, co Helena přijela na Rossumový ostrov, jí věnují dělovou loď. Bohužel už nikdo nestihne odjet, roboti přicházejí na ostrov, nabírají vše a zabijí všechny lidi kromě Alquista.
-
-Po vyvraždění lidstva si roboti uvědomí, že jejich životnost je omezená a bez plánů na výrobu za dvacet let vyhynou. Prosí teda Alquista, aby znova našel plány na jejich výrobu. Alquistovi se to však nepodaří. Najde dva roboty Prima a Helenu, kteří v sobě mají city, lásku a jsou jiní než ostatní. Možná že právě tito dva jsou počátkem nové civilizace.
+- Přijíždí Helena, dcera prezident
+  - Chce se zeptat robotů, proč si nechají, jak se s nimi zachází (jako se
+    stroji)
+  - Jelikož roboti vypadají stejně jako lidé, nějakou dobu si myslí, že lidé
+    jsou roboti a roboti jsou lidé
+  - Jak roboti vznikli
+    - Nejsou mechaničtí, ale organičtí
+    - Starý Rossum x mladý Rossum
+  - Helena zůstává v továrně a bere si Domina
+- O 10 let později
+  - Roboti se používají ve válkách
+    - Helenu trápí, že roboti nemají vlastní rozum a city → přesvědčí doktora
+      Galla, aby vytvořil robota, co je má
+    - Lidem se přestanou rodit děti a robotů je více než lidí
+    - Helena nechce, aby se roboti vyráběli, a tak spálí plány na jejich výrobu
+  - Dojde ke vzbouření robotů
+    - Nikdo z ostrova neunikne, roboti všechny zabijí až na Alquista (šéf staveb R.U.R., poslední, co pracoval rukama)
+    - Roboti se ho snaží donutit, aby zjistil, jak vyrobit další roboty, neví jak
+    - Alquist zjistí, že se dva roboti do sebe zamilovali a přirovnává je k Adamovi a Evě
+    - Konec – Alquist cituje bibli
 
 ### Ukázka
+
 _FABRY (vykloněn z okna): Busman jde. U všech všudy, co chce Busman před domem?_
 
 _DR. GALL (nakloní se z okna): Nese nějaké balíky. Papíry._
@@ -97,23 +116,68 @@ _DR. GALL: Mrtev._
 _ALQUIST (vstane): První._
 
 ### Inspirace
+
 - slovo **robot** (vymyslel Josef)
-- inspirace autorů scifi: Ondřej Neff, **Isaac Asimov** -- Three Laws of Robotics, **Arthur C. Clarke** -- 2001: A Space Odyssey
+- inspirace autorů sci-fi: Ondřej Neff, **Isaac Asimov** -- Three Laws of Robotics, **Arthur C. Clarke** -- 2001: A Space Odyssey
 
 ## Literární kontext
+
 - špatná hospodářská situace, hladovění
 - 1. a 2. sv. válka
 - snaha upozornit na nebezpečí technologického pokroku
+- obavy z války
 - **Pátečníci**
   - spisovatelé z okruhu Karla Čapka
+
+### Fantasy a sci-fi
+
+- literární žánr, který vznikal ve 30. letech 20. století
+- děj se odehrává ve fiktivních civilizacích a je zde kombinace mytologické, fantastické a magické prvky, většinou řeší **vliv moci na jedince**
+- sci-fi -- žánr fantastické literatury tematicky čerpající **z poznatků moderní vědy a techniky**
+- **William Golding** (Anglie) -- Pán much (román)
+- **John Ronald Reuel Tolkien** (Anglie) -- Hobit aneb cesta tam a zase zpátky, Pán prstenů, Silmarilion (romány)
+- **George Orwell** -- 1984 (podobná tematika)
 
 ### T. G. Masaryk
 
 ### Karel Poláček
+
 - román **Bylo nás pět**
 
 ### Eduard Bass
+
 - povídka **Klapzubova jedenáctka**, román **Cirkus Humberto**
 
 ### Josef Čapek
+
 - bratr, napsal **Básně z koncentračního tábora**
+
+### Soudobí autoři
+
+#### Česko
+
+- **Seifert**
+- **Zdeněk Jirotka**
+  - **Saturnin**
+- **Jaroslav Hašek**
+  - **Osudy dobrého vojáka Švejka za světové války**
+- **Nezval**
+  - **Edison**
+  - **Manon Lescaut**
+
+#### Zahraničí
+
+- **G. Orwell**
+  - **1984**
+  - **Farma zvířat**
+- **J. Wyndham**
+  - **Den trifidů**
+- **Agatha Christie**
+  - **Vražda v Orient expresu**
+  - **Vraždy podle abecedy**
+  - **And then there were none**
+- **H. G. Wells**
+  - **Stroj času**
+- **Albert Camus**
+  - **Cizinec**
+  - **Mýtus o Sisyfovi**

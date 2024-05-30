@@ -90,9 +90,35 @@ z balkónu pozoruje noční Prahu.
 - **Chybí interpunkce**
 - Hlavními tématy byly pocity radosti
 - Filosofie -- navrácení se do stavu, kdy se společnost zajímá o (ne)štěstí
-    jedince
+  jedince
 
-## Soudobí autoři
+### Soudobí autoři
 
-- z Česka - K. Čapek, J. Seifert
-- cizinci - H. G. Wells, G. Orwell, J. Wyndham
+#### Česko
+
+- **Seifert**
+- **Zdeněk Jirotka**
+  - **Saturnin**
+- **Jaroslav Hašek**
+  - **Osudy dobrého vojáka Švejka za světové války**
+- **Karel Čapek**
+  - **RUR**
+  - **Matka**
+  - **Bílá nemoc**
+
+#### Zahraničí
+
+- **G. Orwell**
+  - **1984**
+  - **Farma zvířat**
+- **J. Wyndham**
+  - **Den trifidů**
+- **H. G. Wells**
+  - **Stroj času**
+- **Agatha Christie**
+  - **Vražda v Orient expresu**
+  - **Vraždy podle abecedy**
+  - **And then there were none**
+- **Albert Camus**
+  - **Cizinec**
+  - **Mýtus o Sisyfovi**
